@@ -1,0 +1,7990 @@
+0 HEAD
+1 SOUR GenoPro
+2 NAME GenoPro® - Picture Your Family Tree!(TM)
+2 VERS 2.b13h
+2 CORP GenoPro Inc.
+2 ADDR http://www.genopro.com
+1 DATE 12 OCT 2022
+1 CHAR UTF-8
+1 GEDC
+2 VERS 5.5
+2 FORM LINAGE-LINKED
+0 GLOBAL 
+1 NAME 
+2 FULL 
+3 FORMAT %T %F (%N) %M %L (%L2) %S
+2 DISPLAY 
+3 FORMAT %F %M %L (%L2)
+3 LINES 3
+1 FONT Arial
+1 TAGS 
+2 ID Individual
+2 TAGDATA 
+3 NAME _GEDCOM_ERROR.birth.DATE
+3 DISPLAYNAME _GEDCOM_ERROR.birth.DATE
+2 DIALOGLAYOUT 
+3 NAME Custom Tags
+3 DESCRIPTION A custom tag is a generic placeholder to record additional information
+4 CONC .
+4 CONT You can customize those tags by clicking on the Customize button.
+3 TAGS _GEDCOM_ERROR.birth.DATE
+1 DISPLAY 
+2 COLORS 
+3 GENDER 
+4 SYMBOL #000000
+4 TEXT #000000
+4 FILL #FFFFFF
+4 FILL 
+5 TOP 
+6 LEFT #FF0000
+6 RIGHT #FF0000
+5 BOTTOM 
+6 LEFT #FF0000
+6 RIGHT #FF0000
+3 BORDER 
+4 OUTLINE #000080
+4 FILL #FFFF80
+3 LABEL 
+4 TOP #000000
+4 BOTTOM #000000
+0 GENOMAP 
+1 NAME GenoMap1
+1 ZOOM 130
+1 POSITION -2270,410
+1 SELECTION ind00385
+0 GENOMAP 
+1 NAME GenoMap2
+0 GENOMAP 
+1 NAME GenoMap3
+0 @I2@ INDI
+1 NAME Bhabi /Hashia/
+2 DISPLAY Bhabi Hashia
+2 GIVN Bhabi
+2 SURN Hashia
+1 POSITION -2740,500
+1 SEX F
+1 DEAT Y
+2 DATE 1900
+1 FAMS @F1@
+1 FAMS @F2@
+0 @I3@ INDI
+1 NAME Maharaj K /Razdan/
+2 DISPLAY Maharaj K Razdan
+2 GIVN Maharaj
+2 MIDDLE K
+2 SURN Razdan
+2 NICK Dr. Maama
+2 NPFX Dr
+1 POSITION -4140,-720
+1 SEX M
+1 FAMC @F1@
+1 FAMS @F3@
+0 @I4@ INDI
+1 NAME Shyama /Kaul/
+2 DISPLAY Shyama Kaul
+2 GIVN Shyama
+2 SURN Kaul
+1 POSITION -3130,110
+1 SEX F
+1 FAMC @F1@
+1 FAMS @F4@
+0 @I5@ INDI
+1 NAME Jagar Nath /Hashia/
+2 DISPLAY Jagar Nath Hashia
+2 GIVN Jagar
+2 MIDDLE Nath
+2 SURN Hashia
+2 NICK Tatha
+1 POSITION -2810,520
+1 SEX M
+1 CHILD_NO 1
+1 DEAT Y
+2 DATE 1990
+1 FAMC @F88@
+1 FAMS @F2@
+1 FAMS @F1@
+0 @I6@ INDI
+1 NAME Krishna /Raina/
+2 DISPLAY Krishna Raina
+2 GIVN Krishna
+2 SURN Raina
+1 POSITION -3030,110
+1 SEX F
+1 DEAT Y
+2 DATE 26 FEB 2002
+1 FAMC @F1@
+1 FAMS @F5@
+0 @I7@ INDI
+1 NAME Vijay /Razdan/
+2 DISPLAY Vijay Razdan
+2 GIVN Vijay
+2 SURN Razdan
+2 NICK Jajju
+1 POSITION -4070,-450
+1 SEX F
+1 FAMC @F7@
+1 FAMS @F3@
+0 @I8@ INDI
+1 NAME Chaman /Kaul/
+2 DISPLAY Chaman Kaul
+2 GIVN Chaman
+2 SURN Kaul
+1 POSITION -3200,110
+1 SEX M
+1 FAMS @F4@
+0 @I9@ INDI
+1 NAME Mohan Krishen /Raina/
+2 DISPLAY Mohan Krishen Raina
+2 GIVN Mohan Krishen
+2 SURN Raina
+1 POSITION -4290,-1020
+1 SEX M
+1 CHILD_NO 6
+1 DEAT Y
+2 DATE 2002
+1 FAMC @F22@
+1 FAMS @F5@
+0 @I10@ INDI
+1 NAME Chuni /Munshi/
+2 DISPLAY Chuni Munshi
+2 GIVN Chuni
+2 SURN Munshi
+2 NICK Behanji
+1 POSITION -2770,110
+1 SEX F
+1 DEAT Y
+2 DATE 2000
+1 FAMC @F1@
+1 FAMS @F6@
+0 @I11@ INDI
+1 NAME ML /Munshi/
+2 DISPLAY ML Munshi
+2 GIVN ML
+2 SURN Munshi
+2 NICK Bhai Sahib
+1 POSITION -2840,110
+1 SEX M
+1 DEAT Y
+2 DATE 2000
+1 FAMS @F6@
+0 @I12@ INDI
+1 NAME Mimi /Sadhu/
+2 DISPLAY Mimi Sadhu
+2 GIVN Mimi
+2 SURN Sadhu
+1 POSITION -3810,-30
+1 SEX F
+1 DEAT Y
+2 DATE 2000
+1 FAMC @F14@
+1 FAMS @F7@
+0 @I13@ INDI
+1 NAME Ash /Razdan/
+2 DISPLAY Ash Razdan
+2 GIVN Ash
+2 SURN Razdan
+2 NICK Pinto
+1 POSITION -4200,-880
+1 SEX M
+1 FAMC @F3@
+1 FAMS @F8@
+0 @I14@ INDI
+1 NAME Tito /Razdan/
+2 DISPLAY Tito Razdan
+2 GIVN Tito
+2 SURN Razdan
+1 POSITION -4020,-880
+1 SEX M
+1 FAMC @F3@
+1 FAMS @F9@
+0 @I15@ INDI
+1 NAME Michele /Razdan/
+2 DISPLAY Michele Razdan
+2 GIVN Michele
+2 SURN Razdan
+1 POSITION -4130,-880
+1 SEX F
+1 FAMS @F8@
+0 @I16@ INDI
+1 NAME Cheryl /Razdan/
+2 DISPLAY Cheryl Razdan
+2 GIVN Cheryl
+2 SURN Razdan
+1 POSITION -3950,-880
+1 SEX F
+1 FAMS @F9@
+0 @I17@ INDI
+1 NAME Lily Rose /Razdan/
+2 DISPLAY Lily Rose Razdan
+2 GIVN Lily
+2 MIDDLE Rose
+2 SURN Razdan
+1 POSITION -4060,-1020
+1 SEX F
+1 FAMC @F9@
+0 @I18@ INDI
+1 NAME Miles /Razdan/
+2 DISPLAY Miles Razdan
+2 GIVN Miles
+2 SURN Razdan
+1 POSITION -3990,-1020
+1 SEX M
+1 FAMC @F9@
+0 @I19@ INDI
+1 NAME Eliza Beth /Razdan/
+2 DISPLAY Eliza Beth Razdan
+2 GIVN Eliza
+2 MIDDLE Beth
+2 SURN Razdan
+1 POSITION -3920,-1020
+1 SEX F
+1 FAMC @F9@
+0 @I20@ INDI
+1 NAME Rajesh /Raina/
+2 DISPLAY Rajesh Raina
+2 GIVN Rajesh
+2 SURN Raina
+2 NICK Raja
+1 POSITION -3200,-1170
+1 SEX M
+1 FAMC @F5@
+1 FAMS @F10@
+0 @I21@ INDI
+1 NAME Rohit /Raina/
+2 DISPLAY Rohit Raina
+2 GIVN Rohit
+2 SURN Raina
+1 POSITION -5320,-1970
+1 SEX M
+1 BIRT 
+2 DATE 23 JUN 1967
+2 PLAC Srinagar
+3 _XREF @place00001@
+1 FAMC @F5@
+1 FAMS @F11@
+0 @I22@ INDI
+1 NAME Rahul /Raina/
+2 DISPLAY Rahul Raina
+2 GIVN Rahul
+2 SURN Raina
+1 POSITION -3200,-1320
+1 SEX M
+1 FAMC @F10@
+0 @I23@ INDI
+1 NAME Rajiv /Raina/
+2 DISPLAY Rajiv Raina
+2 GIVN Rajiv
+2 SURN Raina
+1 POSITION -3130,-1320
+1 SEX M
+1 FAMC @F10@
+0 @I24@ INDI
+1 NAME Anita /Misri/
+2 DISPLAY Anita Misri
+2 GIVN Anita
+2 SURN Misri
+1 POSITION -4370,-1850
+1 SEX F
+1 BIRT 
+2 PLAC Bombay
+3 _XREF @place00002@
+1 _GEDCOM_ERROR 
+2 BIRTH 
+3 DATE 24 March 1969
+1 FAMC @F56@
+1 FAMS @F11@
+0 @I25@ INDI
+1 NAME Roan /Raina/
+2 DISPLAY Roan Raina
+2 GIVN Roan
+2 SURN Raina
+1 POSITION -5320,-2110
+1 SEX M
+1 BIRT 
+2 DATE 2 OCT 1999
+2 PLAC Victoria, BC
+3 _XREF @place00003@
+1 FAMC @F11@
+0 @I26@ INDI
+1 NAME Radha /Raina/
+2 DISPLAY Radha Raina
+2 GIVN Radha
+2 SURN Raina
+1 POSITION -5260,-2110
+1 SEX F
+1 BIRT 
+2 DATE 28 MAY 2001
+2 PLAC Victoria BC
+3 _XREF @place00004@
+1 FAMC @F11@
+0 @I27@ INDI
+1 NAME Sunny /Munshi/
+2 DISPLAY Sunny Munshi
+2 GIVN Sunny
+2 SURN Munshi
+1 POSITION -2880,-30
+1 SEX M
+1 FAMC @F6@
+1 FAMS @F12@
+0 @I28@ INDI
+1 NAME Raja Raman /Munshi/
+2 DISPLAY Raja Raman Munshi
+2 GIVN Raja
+2 MIDDLE Raman
+2 SURN Munshi
+2 NICK Yuri
+1 POSITION -2740,-30
+1 SEX M
+1 FAMC @F6@
+1 FAMS @F13@
+0 @I29@ INDI
+1 NAME Karuna /Munshi/
+2 DISPLAY Karuna Munshi
+2 GIVN Karuna
+2 SURN Munshi
+1 POSITION -2810,-30
+1 SEX F
+1 FAMS @F12@
+0 @I30@ INDI
+1 NAME Bhawani /Solanki/
+2 DISPLAY Bhawani Solanki (Munshi)
+2 GIVN Bhawani
+2 SURN Solanki
+2 LAST2 Munshi
+1 POSITION -2890,-180
+1 SEX F
+1 FAMC @F12@
+1 FAMS @fam00119@
+0 @I31@ INDI
+1 NAME Nalini /Munshi/
+2 DISPLAY Nalini Munshi
+2 GIVN Nalini
+2 SURN Munshi
+1 POSITION -2670,-50
+1 SEX F
+1 FAMS @F13@
+0 @I32@ INDI
+1 NAME Yashee /Munshi/
+2 DISPLAY Yashee Munshi
+2 GIVN Yashee
+2 SURN Munshi
+2 NICK Yashu
+1 POSITION -2740,-190
+1 SEX F
+1 FAMC @F13@
+0 @I33@ INDI
+1 NAME Vini /Munshi/
+2 DISPLAY Vini Munshi
+2 GIVN Vini
+2 SURN Munshi
+1 POSITION -2670,-190
+1 SEX M
+1 FAMC @F13@
+0 @I34@ INDI
+1 NAME Anjina /Raina/
+2 DISPLAY Anjina Raina
+2 GIVN Anjina
+2 SURN Raina
+1 POSITION -3130,-1170
+1 SEX F
+1 FAMS @F10@
+0 @I35@ INDI
+1 NAME Kaji /Sadhu/
+2 DISPLAY Kaji Sadhu
+2 GIVN Kaji
+2 SURN Sadhu
+1 POSITION -3880,-310
+1 SEX M
+1 FAMS @F7@
+0 @I36@ INDI
+1 NAME ? //
+2 DISPLAY ?
+2 GIVN ?
+1 POSITION -3730,120
+1 SEX M
+1 DEAT Y
+1 FAMS @F14@
+0 @I38@ INDI
+1 NAME Chaman /Kashkari/
+2 DISPLAY Chaman Kashkari
+2 GIVN Chaman
+2 SURN Kashkari
+1 POSITION -3590,-30
+1 SEX M
+1 DEAT Y
+1 FAMC @F14@
+1 FAMS @F15@
+0 @I39@ INDI
+1 NAME Sheela /Kashkari/
+2 DISPLAY Sheela Kashkari
+2 GIVN Sheela
+2 SURN Kashkari
+1 POSITION -3510,-30
+1 SEX F
+1 FAMS @F15@
+0 @I40@ INDI
+1 NAME Neel /Kashkari/
+2 DISPLAY Neel Kashkari
+2 GIVN Neel
+2 SURN Kashkari
+1 POSITION -3730,-170
+1 SEX M
+1 FAMC @F15@
+1 FAMS @F18@
+0 @I41@ INDI
+1 NAME Meera /Kelley/
+2 DISPLAY Meera Kelley
+2 GIVN Meera
+2 SURN Kelley
+1 POSITION -3380,-180
+1 SEX F
+1 FAMC @F15@
+1 FAMS @fam00117@
+1 FAMS @fam00118@
+0 @I42@ INDI
+1 NAME Inder /Sadhu/
+2 DISPLAY Inder Sadhu
+2 GIVN Inder
+2 SURN Sadhu
+1 POSITION -3930,-450
+1 SEX M
+1 FAMC @F7@
+1 FAMS @F17@
+0 @I43@ INDI
+1 NAME Sheela /Dhayal/
+2 DISPLAY Sheela Dhayal
+2 GIVN Sheela
+2 SURN Dhayal
+1 POSITION -3610,-450
+1 SEX F
+1 FAMC @F7@
+1 FAMS @F16@
+0 @I45@ INDI
+1 NAME Vijay /Dayal/
+2 DISPLAY Vijay Dayal
+2 GIVN Vijay
+2 SURN Dayal
+1 POSITION -3680,-450
+1 SEX M
+1 DEAT Y
+1 FAMS @F16@
+0 @I46@ INDI
+1 NAME Sarla /Sadhu/
+2 DISPLAY Sarla Sadhu
+2 GIVN Sarla
+2 SURN Sadhu
+1 POSITION -3860,-450
+1 SEX F
+1 FAMS @F17@
+0 @I47@ INDI
+1 NAME Aneeta /Dhayal/
+2 DISPLAY Aneeta Dhayal
+2 GIVN Aneeta
+2 SURN Dhayal
+1 POSITION -3720,-590
+1 SEX F
+1 FAMC @F16@
+1 FAMS @F19@
+0 @I48@ INDI
+1 NAME Anji /Dhayal/
+2 DISPLAY Anji Dhayal
+2 GIVN Anji
+2 SURN Dhayal
+1 POSITION -3650,-590
+1 SEX F
+1 FAMC @F16@
+0 @I49@ INDI
+1 NAME Amit /Dhayal/
+2 DISPLAY Amit Dhayal
+2 GIVN Amit
+2 SURN Dhayal
+1 POSITION -3580,-590
+1 SEX M
+1 FAMC @F16@
+1 FAMS @F20@
+0 @I50@ INDI
+1 NAME Christine /Ong/
+2 DISPLAY Christine Ong
+2 GIVN Christine
+2 SURN Ong
+1 POSITION -3650,-170
+1 SEX F
+1 FAMS @F18@
+0 @I51@ INDI
+1 NAME Matthew /Valdez/
+2 DISPLAY Matthew Valdez
+2 GIVN Matthew
+2 SURN Valdez
+1 POSITION -3790,-590
+1 SEX M
+1 FAMS @F19@
+0 @I52@ INDI
+1 NAME Jessica /Dhayal/
+2 DISPLAY Jessica Dhayal
+2 GIVN Jessica
+2 SURN Dhayal
+1 POSITION -3520,-590
+1 SEX F
+1 FAMS @F20@
+0 @I53@ INDI
+1 NAME Laila /Dhayal/
+2 DISPLAY Laila Dhayal
+2 GIVN Laila
+2 SURN Dhayal
+1 POSITION -3580,-740
+1 SEX F
+1 FAMC @F20@
+0 @I54@ INDI
+1 NAME Faye /Dhayal/
+2 DISPLAY Faye Dhayal
+2 GIVN Faye
+2 SURN Dhayal
+1 POSITION -3520,-740
+1 SEX F
+1 FAMC @F20@
+0 @I56@ INDI
+1 NAME ShivJi /Raina/
+2 DISPLAY ShivJi Raina
+2 GIVN ShivJi
+2 SURN Raina
+1 POSITION -5510,250
+1 SEX M
+1 DEAT Y
+2 DATE 1965
+1 NOTE Sonmal is the first spouse
+2 CONT Girgri (my Grandmother) is second spouse
+2 CONT Dont know how to fix it in the s/w
+1 FAMC @F40@
+1 FAMS @F22@
+1 FAMS @F23@
+0 @I57@ INDI
+1 NAME Tulsi /Raina/
+2 DISPLAY Tulsi Raina
+2 GIVN Tulsi
+2 SURN Raina
+2 NICK Gigri
+1 POSITION -1810,250
+1 SEX F
+1 DEAT Y
+2 DATE 1979
+1 FAMS @F22@
+0 @I58@ INDI
+1 NAME Sonmal /Raina/
+2 DISPLAY Sonmal Raina
+2 GIVN Sonmal
+2 SURN Raina
+1 POSITION 1260,250
+1 SEX F
+1 FAMS @F23@
+0 @I59@ INDI
+1 NAME Triloki Nath /Raina/
+2 DISPLAY Triloki Nath Raina
+2 GIVN Triloki
+2 MIDDLE Nath
+2 SURN Raina
+2 NICK Bhaigash à
+1 POSITION -1620,130
+1 SEX M
+1 CHILD_NO 1
+1 DEAT Y
+1 FAMC @F23@
+1 FAMS @F28@
+0 @I60@ INDI
+1 NAME Dhanwati /Choudhary/
+2 DISPLAY Dhanwati Choudhary
+2 GIVN Dhanwati
+2 SURN Choudhary
+2 NICK Pyari Behan
+1 POSITION -550,120
+1 SEX F
+1 CHILD_NO 2
+1 DEAT Y
+2 DATE 2005
+1 NOTE Dhan Rani 
+1 FAMC @F23@
+1 FAMS @F31@
+0 @I61@ INDI
+1 NAME Raj Dulari /Raina/
+2 DISPLAY Raj Dulari Raina
+2 GIVN Raj Dulari
+2 SURN Raina
+2 NICK Dida  Pyari
+1 POSITION 330,130
+1 SEX F
+1 CHILD_NO 3
+1 FAMC @F23@
+1 FAMS @F34@
+0 @I62@ INDI
+1 NAME Padam  Nath /Raina/
+2 DISPLAY Padam  Nath Raina
+2 GIVN Padam 
+2 MIDDLE Nath
+2 SURN Raina
+2 NICK Babuji
+1 POSITION 1230,130
+1 SEX M
+1 CHILD_NO 4
+1 FAMC @F23@
+1 FAMS @F35@
+0 @I63@ INDI
+1 NAME DK /Raina/
+2 DISPLAY DK Raina
+2 GIVN DK
+2 SURN Raina
+1 POSITION -5490,130
+1 SEX M
+1 CHILD_NO 5
+1 DEAT Y
+2 DATE 1962
+1 FAMC @F22@
+1 FAMS @F25@
+0 @I64@ INDI
+1 NAME Chuni /Dhar/
+2 DISPLAY Chuni Dhar
+2 GIVN Chuni
+2 SURN Dhar
+1 POSITION -2450,130
+1 SEX F
+1 CHILD_NO 7
+1 DEAT Y
+2 DATE 1975
+1 FAMC @F22@
+1 FAMS @F26@
+0 @I65@ INDI
+1 NAME Rajinder /Raina/
+2 DISPLAY Rajinder Raina
+2 GIVN Rajinder
+2 SURN Raina
+1 POSITION -2180,130
+1 SEX M
+1 CHILD_NO 8
+1 FAMC @F22@
+1 FAMS @F27@
+0 @I66@ INDI
+1 NAME Ramesh /Raina/
+2 DISPLAY Ramesh Raina
+2 GIVN Ramesh
+2 SURN Raina
+2 NICK Bhaiji
+1 POSITION -1970,130
+1 SEX M
+1 FAMC @F22@
+1 FAMS @F24@
+0 @I67@ INDI
+1 NAME Ushaji /Raina/
+2 DISPLAY Ushaji Raina
+2 GIVN Ushaji
+2 SURN Raina
+1 POSITION -1900,130
+1 SEX F
+1 FAMS @F24@
+0 @I68@ INDI
+1 NAME Amit /Raina/
+2 DISPLAY Amit Raina
+2 GIVN Amit
+2 SURN Raina
+2 NICK Chunoo
+1 POSITION -2010,-10
+1 SEX M
+1 FAMC @F24@
+1 FAMS @F29@
+0 @I69@ INDI
+1 NAME Sumit /Raina/
+2 DISPLAY Sumit Raina
+2 GIVN Sumit
+2 SURN Raina
+2 NICK Chinkoo
+1 POSITION -1870,-10
+1 SEX M
+1 FAMC @F24@
+0 @I70@ INDI
+1 NAME Sunita /Moti/
+2 DISPLAY Sunita Moti
+2 GIVN Sunita
+2 SURN Moti
+2 NICK Ruby
+1 POSITION -5460,10
+1 SEX F
+1 FAMC @F25@
+1 FAMS @F39@
+0 @I71@ INDI
+1 NAME Surekha /Kaul/
+2 DISPLAY Surekha Kaul (Dhar)
+2 GIVN Surekha
+2 SURN Kaul
+2 LAST2 Dhar
+2 NICK Pinti
+1 POSITION -2530,-10
+1 SEX F
+1 FAMC @F26@
+1 FAMS @F113@
+0 @I72@ INDI
+1 NAME Vinay /Dhar/
+2 DISPLAY Vinay Dhar
+2 GIVN Vinay
+2 SURN Dhar
+2 NICK Munna
+1 POSITION -2440,-10
+1 SEX M
+1 FAMC @F26@
+1 FAMS @F114@
+0 @I73@ INDI
+1 NAME Amrita /Kachroo/
+2 DISPLAY Amrita Kachroo (Raina)
+2 GIVN Amrita
+2 SURN Kachroo
+2 LAST2 Raina
+2 NICK Bibloo
+1 POSITION -2220,-10
+1 SEX F
+1 FAMC @F27@
+1 FAMS @F115@
+0 @I74@ INDI
+1 NAME Barkha /Kher/
+2 DISPLAY Barkha Kher (Raina)
+2 GIVN Barkha
+2 SURN Kher
+2 LAST2 Raina
+2 NICK Bitoo
+1 POSITION -2080,-10
+1 SEX F
+1 FAMC @F27@
+1 FAMS @F116@
+0 @I75@ INDI
+1 NAME RajLaxmi  /Raina/
+2 DISPLAY RajLaxmi  Raina
+2 GIVN RajLaxmi 
+2 SURN Raina
+2 NICK Bhabi
+1 POSITION -1550,120
+1 SEX F
+1 FAMS @F28@
+0 @I76@ INDI
+1 NAME Deepa /Raina/
+2 DISPLAY Deepa Raina
+2 GIVN Deepa
+2 SURN Raina
+1 POSITION -1940,-10
+1 SEX F
+1 FAMS @F29@
+0 @I77@ INDI
+1 NAME Ravinder /Raina/
+2 DISPLAY Ravinder Raina
+2 GIVN Ravinder
+2 SURN Raina
+1 POSITION -1760,-20
+1 SEX M
+1 NOTE in Canada
+1 FAMC @F28@
+1 FAMS @F89@
+0 @I78@ INDI
+1 NAME Pramathesh  /Raina/
+2 DISPLAY Pramathesh  Raina
+2 GIVN Pramathesh 
+2 SURN Raina
+2 NICK Tisha
+1 POSITION -1580,-20
+1 SEX M
+1 FAMC @F28@
+1 FAMS @F30@
+0 @I79@ INDI
+1 NAME Suresh /Raina/
+2 DISPLAY Suresh Raina
+2 GIVN Suresh
+2 SURN Raina
+1 POSITION -1410,-20
+1 SEX M
+1 NOTE In Pune
+1 FAMC @F28@
+1 FAMS @F90@
+0 @I80@ INDI
+1 NAME Karthik /Raina/
+2 DISPLAY Karthik Raina
+2 GIVN Karthik
+2 SURN Raina
+1 POSITION -1620,-160
+1 SEX M
+1 NOTE Enggineer - Bombay / Daka?
+1 FAMC @F30@
+0 @I81@ INDI
+1 NAME Vitasta /Raina/
+2 DISPLAY Vitasta Raina
+2 GIVN Vitasta
+2 SURN Raina
+2 NICK Gudia
+1 POSITION -1480,-160
+1 SEX F
+1 NOTE Live in Noida and both are Architects
+2 CONT Gudia writes
+1 FAMC @F30@
+1 FAMS @F91@
+0 @I82@ INDI
+1 NAME Jia  Lal /Choudhary/
+2 DISPLAY Jia  Lal Choudhary
+2 GIVN Jia 
+2 MIDDLE Lal
+2 SURN Choudhary
+1 POSITION -640,130
+1 SEX M
+1 DEAT Y
+2 DATE 1994
+1 FAMS @F31@
+0 @I83@ INDI
+1 NAME Chaman /Choudhary/
+2 DISPLAY Chaman Choudhary
+2 GIVN Chaman
+2 SURN Choudhary
+2 NICK UK
+1 POSITION -1260,-20
+1 SEX M
+1 DEAT Y
+1 NOTE In London
+1 FAMC @F31@
+1 FAMS @F92@
+0 @I84@ INDI
+1 NAME Robin /Choudhary/
+2 DISPLAY Robin Choudhary
+2 GIVN Robin
+2 SURN Choudhary
+2 NICK Bushanji
+1 POSITION -1080,-20
+1 SEX M
+1 NOTE Ausralia Wollongong NSW
+1 FAMC @F31@
+1 FAMS @F93@
+0 @I85@ INDI
+1 NAME Kundan Lal /Choudhary/
+2 DISPLAY Kundan Lal Choudhary
+2 GIVN Kundan
+2 MIDDLE Lal
+2 SURN Choudhary
+1 POSITION -710,-20
+1 SEX M
+1 DEAT Y
+1 FAMC @F31@
+1 FAMS @F32@
+0 @I86@ INDI
+1 NAME Usha Rani /Kaul/
+2 DISPLAY Usha Rani Kaul (Choudary)
+2 GIVN Usha
+2 MIDDLE Rani
+2 SURN Kaul
+2 LAST2 Choudary
+1 POSITION -370,-20
+1 SEX F
+1 FAMC @F31@
+1 FAMS @F33@
+0 @I87@ INDI
+1 NAME Surinder /Choudhary/
+2 DISPLAY Surinder Choudhary
+2 GIVN Surinder
+2 SURN Choudhary
+2 NICK CA Bodhji
+1 POSITION -230,-20
+1 SEX M
+1 FAMC @F31@
+1 FAMS @F99@
+0 @I88@ INDI
+1 NAME Vijay /Kaul/
+2 DISPLAY Vijay Kaul
+2 GIVN Vijay
+2 SURN Kaul
+1 POSITION 40,-20
+1 SEX F
+1 FAMC @F31@
+1 FAMS @F97@
+0 @I89@ INDI
+1 NAME Bansilal /Kaul/
+2 DISPLAY Bansilal Kaul
+2 GIVN Bansilal
+2 SURN Kaul
+2 NICK cardiologist
+1 POSITION -30,-20
+1 SEX M
+1 FAMS @F97@
+0 @I90@ INDI
+1 NAME Anita /Choudhary/
+2 DISPLAY Anita Choudhary
+2 GIVN Anita
+2 SURN Choudhary
+2 NICK Liku
+1 POSITION -760,-180
+1 SEX F
+1 FAMC @F32@
+1 FAMS @F95@
+0 @I91@ INDI
+1 NAME Renuka /Choudhary/
+2 DISPLAY Renuka Choudhary
+2 GIVN Renuka
+2 SURN Choudhary
+2 NICK Tingli
+1 POSITION -590,-180
+1 SEX F
+1 FAMC @F32@
+1 FAMS @F96@
+0 @I92@ INDI
+1 NAME Heema /Kaul/
+2 DISPLAY Heema Kaul
+2 GIVN Heema
+2 SURN Kaul
+2 NPFX Dr.
+1 POSITION -450,-180
+1 SEX F
+1 FAMC @F33@
+1 FAMS @F100@
+0 @I93@ INDI
+1 NAME Nalin /Kaul/
+2 DISPLAY Nalin Kaul
+2 GIVN Nalin
+2 SURN Kaul
+1 POSITION -380,-180
+1 SEX M
+1 FAMC @F33@
+1 FAMS @fam00128@
+0 @I94@ INDI
+1 NAME Bhaiji /Raina/
+2 DISPLAY Bhaiji Raina
+2 GIVN Bhaiji
+2 SURN Raina
+2 NICK Delhi
+1 POSITION 260,120
+1 SEX M
+1 DEAT Y
+2 DATE 2006
+1 FAMS @F34@
+0 @I95@ INDI
+1 NAME Satish /Raina/
+2 DISPLAY Satish Raina
+2 GIVN Satish
+2 SURN Raina
+1 POSITION 130,-20
+1 SEX M
+1 FAMC @F34@
+1 FAMS @F101@
+0 @I96@ INDI
+1 NAME Anil /Raina/
+2 DISPLAY Anil Raina
+2 GIVN Anil
+2 SURN Raina
+2 NICK Shabri
+1 POSITION 270,-20
+1 SEX M
+1 FAMC @F34@
+1 FAMS @F102@
+0 @I97@ INDI
+1 NAME Rajeev /Raina/
+2 DISPLAY Rajeev Raina
+2 GIVN Rajeev
+2 SURN Raina
+2 NICK Canada
+1 POSITION 450,-20
+1 SEX M
+1 FAMC @F34@
+1 FAMS @F103@
+0 @I98@ INDI
+1 NAME Roma /Raina/
+2 DISPLAY Roma Raina
+2 GIVN Roma
+2 SURN Raina
+1 POSITION -1500,-20
+1 SEX F
+1 FAMS @F30@
+0 @I99@ INDI
+1 NAME Bansi Lal /Kaul/
+2 DISPLAY Bansi Lal Kaul
+2 GIVN Bansi
+2 MIDDLE Lal
+2 SURN Kaul
+2 NICK Buffalo
+1 POSITION -450,-20
+1 SEX M
+1 FAMS @F33@
+0 @I100@ INDI
+1 NAME Chuni /Raina/
+2 DISPLAY Chuni Raina
+2 GIVN Chuni
+2 SURN Raina
+2 NICK Rani Bhabi
+1 POSITION 1300,120
+1 SEX F
+1 FAMS @F35@
+0 @I101@ INDI
+1 NAME Virender /Raina/
+2 DISPLAY Virender Raina
+2 GIVN Virender
+2 SURN Raina
+2 NICK Kakaji
+1 POSITION 690,-20
+1 SEX M
+1 FAMC @F35@
+1 FAMS @F36@
+0 @I102@ INDI
+1 NAME Indra /Kaul/
+2 DISPLAY Indra Kaul (Raina)
+2 GIVN Indra
+2 SURN Kaul
+2 LAST2 Raina
+1 POSITION 1120,-20
+1 SEX F
+1 FAMC @F35@
+1 FAMS @F107@
+0 @I103@ INDI
+1 NAME Reeta /Kaul/
+2 DISPLAY Reeta Kaul
+2 GIVN Reeta
+2 SURN Kaul
+2 NICK Babli
+1 POSITION 1510,-20
+1 SEX F
+1 FAMC @F35@
+1 FAMS @F106@
+0 @I104@ INDI
+1 NAME Shashi /Raina/
+2 DISPLAY Shashi Raina
+2 GIVN Shashi
+2 SURN Raina
+1 POSITION 1620,-20
+1 SEX M
+1 FAMC @F35@
+1 FAMS @F37@
+0 @I105@ INDI
+1 NAME Sangeeta /Raina/
+2 DISPLAY Sangeeta Raina
+2 GIVN Sangeeta
+2 SURN Raina
+2 NICK Pinki
+1 POSITION 1830,-20
+1 SEX F
+1 FAMC @F35@
+1 FAMS @F38@
+0 @I106@ INDI
+1 NAME Jharna /Raina/
+2 DISPLAY Jharna Raina
+2 GIVN Jharna
+2 SURN Raina
+1 POSITION 760,-20
+1 SEX F
+1 FAMS @F36@
+0 @I107@ INDI
+1 NAME Kavita /Raina/
+2 DISPLAY Kavita Raina
+2 GIVN Kavita
+2 SURN Raina
+1 POSITION 1680,-20
+1 SEX F
+1 FAMS @F37@
+0 @I108@ INDI
+1 NAME Rajinder /Raina/
+2 DISPLAY Rajinder Raina
+2 GIVN Rajinder
+2 SURN Raina
+1 POSITION 1750,-20
+1 SEX M
+1 FAMS @F38@
+0 @I109@ INDI
+1 NAME Sheeba /Nadir/
+2 DISPLAY Sheeba Nadir
+2 GIVN Sheeba
+2 SURN Nadir
+2 NICK Heemal 
+1 POSITION 680,-160
+1 SEX F
+1 FAMC @F36@
+1 FAMS @F104@
+0 @I110@ INDI
+1 NAME Shaka /Raina/
+2 DISPLAY Shaka Raina
+2 GIVN Shaka
+2 SURN Raina
+1 POSITION 1620,-160
+1 SEX F
+1 FAMC @F37@
+0 @I111@ INDI
+1 NAME Neil /Raina/
+2 DISPLAY Neil Raina
+2 GIVN Neil
+2 SURN Raina
+1 POSITION 1680,-160
+1 SEX M
+1 FAMC @F37@
+0 @I112@ INDI
+1 NAME Bhaskar /Raina/
+2 DISPLAY Bhaskar Raina
+2 GIVN Bhaskar
+2 SURN Raina
+1 POSITION 1750,-160
+1 SEX M
+1 NOTE In US
+1 FAMC @F38@
+0 @I113@ INDI
+1 NAME Gautam /Raina/
+2 DISPLAY Gautam Raina
+2 GIVN Gautam
+2 SURN Raina
+1 POSITION 1820,-160
+1 SEX M
+1 FAMC @F38@
+0 @I114@ INDI
+1 NAME Anil /Moti/
+2 DISPLAY Anil Moti
+2 GIVN Anil
+2 SURN Moti
+1 POSITION -5530,10
+1 SEX M
+1 FAMS @F39@
+0 @I115@ INDI
+1 NAME Resha  Ram /Raina/
+2 DISPLAY Resha  Ram Raina
+2 GIVN Resha 
+2 MIDDLE Ram
+2 SURN Raina
+2 NICK Kak
+1 POSITION -5540,790
+1 SEX M
+1 DEAT Y
+1 FAMC @F41@
+1 FAMS @F40@
+0 @I116@ INDI
+1 NAME Ranim /Raina/
+2 DISPLAY Ranim Raina
+2 GIVN Ranim
+2 SURN Raina
+2 NICK Dedi
+1 POSITION -5470,770
+1 SEX F
+1 DEAT Y
+2 DATE 1850
+1 NOTE From Kremshor
+1 FAMS @F40@
+0 @I117@ INDI
+1 NAME Tota Ram  /Razdan/
+2 DISPLAY Tota Ram  Razdan
+2 GIVN Tota Ram 
+2 SURN Razdan
+1 POSITION -810,940
+1 SEX M
+1 DEAT Y
+1 NOTE Seems like Tota Ram  Razdan also went by
+2 CONT Bhawani Prasad Raina
+2 CONT Seems likethe change of surname happened in this generaiton
+1 FAMC @F44@
+1 FAMS @F41@
+0 @I118@ INDI
+1 NAME Narain Dass /Raina/
+2 DISPLAY Narain Dass Raina
+2 GIVN Narain
+2 MIDDLE Dass
+2 SURN Raina
+2 NICK Nav Narayan
+1 POSITION 2730,790
+1 SEX M
+1 DEAT Y
+1 NOTE My Uncle
+2 CONT P. Parayan Das Raina
+2 CONT Popularly known in his time as Nawa Narian
+2 CONT 
+2 CONT Narayan Das being the first man in kashmir who got the firt House-boat
+2 CONC  constructed under the direction of a frenchman in the employ if Messr
+2 CONC s Mitchel & co; a big carpet weaving factory in srinagar in the  early
+2 CONC  days of this centuary
+1 FAMC @F41@
+1 FAMS @F42@
+0 @I119@ INDI
+1 NAME Arnyamali /Raina/
+2 DISPLAY Arnyamali Raina
+2 GIVN Arnyamali
+2 SURN Raina
+2 NICK Katji
+1 POSITION 2810,770
+1 SEX F
+1 DEAT Y
+1 NOTE Tankipora
+1 FAMS @F42@
+0 @I120@ INDI
+1 NAME Maheshwar Nath /Raina/
+2 DISPLAY Maheshwar Nath Raina
+2 GIVN Maheshwar Nath
+2 SURN Raina
+1 POSITION 2220,630
+1 SEX M
+1 DEAT Y
+1 FAMC @F42@
+1 FAMS @F43@
+0 @I121@ INDI
+1 NAME Poshi Kaji /Raina/
+2 DISPLAY Poshi Kaji Raina
+2 GIVN Poshi Kaji
+2 SURN Raina
+1 POSITION 2300,630
+1 SEX F
+1 DEAT Y
+1 FAMS @F43@
+0 @I122@ INDI
+1 NAME Sampakuji /Mattoo/
+2 DISPLAY Sampakuji Mattoo
+2 GIVN Sampakuji
+2 SURN Mattoo
+1 POSITION 2630,620
+1 SEX F
+1 DEAT Y
+1 FAMC @F42@
+1 FAMS @F81@
+0 @I123@ INDI
+1 NAME Vishimali /Dhar/
+2 DISPLAY Vishimali Dhar
+2 GIVN Vishimali
+2 SURN Dhar
+1 POSITION 2820,620
+1 SEX F
+1 DEAT Y
+1 FAMC @F42@
+1 FAMS @F82@
+0 @I124@ INDI
+1 NAME Lakshman Joo /Raina/
+2 DISPLAY Lakshman Joo Raina
+2 GIVN Lakshman Joo
+2 SURN Raina
+2 NICK Ishwar Swarup
+2 NPFX Swami 
+1 POSITION 1910,630
+1 SEX M
+1 BIRT 
+2 DATE 8 MAY 1907
+2 PLAC Kashmir
+3 _XREF @place00005@
+1 DEAT Y
+2 DATE 27 SEP 1991
+2 PLAC Delhi
+3 _XREF @place00006@
+1 FAMC @F42@
+0 @I125@ INDI
+1 NAME Sarvanand /Raina/
+2 DISPLAY Sarvanand Raina
+2 GIVN Sarvanand
+2 SURN Raina
+1 POSITION 2920,630
+1 SEX M
+1 DEAT Y
+1 FAMC @F42@
+0 @I126@ INDI
+1 NAME Nila Kanth /Raina/
+2 DISPLAY Nila Kanth Raina
+2 GIVN Nila
+2 MIDDLE Kanth
+2 SURN Raina
+1 POSITION 3000,630
+1 SEX M
+1 DEAT Y
+1 FAMC @F42@
+1 FAMS @F85@
+1 FAMS @F86@
+0 @I127@ INDI
+1 NAME Tekar Dedi /Dhar/
+2 DISPLAY Tekar Dedi Dhar
+2 GIVN Tekar Dedi
+2 SURN Dhar
+1 POSITION 3330,630
+1 SEX F
+1 DEAT Y
+1 FAMC @F42@
+1 FAMS @F83@
+0 @I128@ INDI
+1 NAME Bhawani Prased /Razdan/
+2 DISPLAY Bhawani Prased Razdan
+2 GIVN Bhawani
+2 MIDDLE Prased
+2 SURN Razdan
+2 NICK Boonya  
+1 POSITION -830,1070
+1 SEX M
+1 DEAT Y
+2 DATE 1 JAN 1850
+1 NOTE born ? early 19th century - 1850
+1 FAMC @F46@
+1 FAMS @F44@
+1 FAMS @F64@
+0 @I129@ INDI
+1 NAME Poshmali /Razdan/
+2 DISPLAY Poshmali Razdan
+2 GIVN Poshmali
+2 SURN Razdan
+2 NICK kuji
+1 POSITION 5200,1050
+1 SEX F
+1 DEAT Y
+1 FAMS @F44@
+0 @I130@ INDI
+1 NAME Shrimaal /Razdan/
+2 DISPLAY Shrimaal Razdan
+2 GIVN Shrimaal
+2 SURN Razdan
+2 NICK Miri
+1 POSITION 5270,1050
+1 SEX F
+1 DEAT Y
+1 FAMS @F64@
+0 @I131@ INDI
+1 NAME Nidan /Razdan/
+2 DISPLAY Nidan Razdan
+2 GIVN Nidan
+2 SURN Razdan
+1 POSITION 2290,1210
+1 SEX M
+1 FAMC @F47@
+1 FAMS @F46@
+0 @I132@ INDI
+1 NAME Sahaza /Razdan/
+2 DISPLAY Sahaza Razdan
+2 GIVN Sahaza
+2 SURN Razdan
+1 POSITION 5470,1060
+1 SEX M
+1 DEAT Y
+1 FAMC @F46@
+1 FAMS @F52@
+0 @I134@ INDI
+1 NAME Unknown /Razdan/
+2 DISPLAY Unknown Razdan
+2 GIVN Unknown
+2 SURN Razdan
+1 POSITION 2270,1320
+1 SEX M
+1 NOTE We seems to have missed a generation
+2 CONT - Krishna Raina
+1 FAMS @F47@
+1 FAMC @fam00123@
+0 @I135@ INDI
+1 NAME Punoo /Razdan/
+2 DISPLAY Punoo Razdan
+2 GIVN Punoo
+2 SURN Razdan
+2 NICK Puni Kon
+1 POSITION 2240,1430
+1 SEX M
+1 FAMS @fam00123@
+1 FAMC @fam00124@
+0 @I136@ INDI
+1 NAME Swamin Gautam /Gotra/
+2 DISPLAY Swamin Gautam Gotra
+2 GIVN Swamin
+2 MIDDLE Gautam
+2 SURN Gotra
+1 POSITION 2170,1800
+1 SEX M
+1 NOTE Rajanaka Kashmiri Pandit
+2 CONT We are known as 'Raina' - that is our family name. Raina appears to be
+2 CONC  a corruption of 'Rajanaka', for that is really the original name of o
+2 CONC ur family. We were also known as 'Razdan'. This appears to be a Persia
+2 CONC nised form of the same name 'Rajanaka'.
+2 CONT 
+2 CONT (Extract from the Diary of ShivJi raina)
+1 FAMS @fam00126@
+0 @I137@ INDI
+1 NAME Baskar /Razdan/
+2 DISPLAY Baskar Razdan
+2 GIVN Baskar
+2 SURN Razdan
+1 POSITION 2220,1550
+1 SEX M
+1 FAMS @fam00124@
+1 FAMC @fam00125@
+0 @I138@ INDI
+1 NAME Mansa  Ram  /Razdan/
+2 DISPLAY Mansa  Ram  Razdan
+2 GIVN Mansa 
+2 MIDDLE Ram 
+2 SURN Razdan
+2 NICK Dooni
+2 NPFX Pt
+1 POSITION 2190,1670
+1 SEX M
+1 BIRT 
+2 DATE 1600
+1 NOTE Razdan Sab or Dooni Sahib
+2 CONT Pathan Rule
+2 CONT Banamohalla (Razdan Kocha)
+2 CONT Migrates to Qiladar, Gujrat
+1 FAMS @fam00125@
+1 FAMC @fam00126@
+1 FAMS @fam00142@
+0 @I139@ INDI
+1 NAME Son1 /Raina/
+2 DISPLAY Son1 Raina
+2 GIVN Son1
+2 SURN Raina
+1 POSITION 5370,920
+1 SEX M
+1 DEAT Y
+1 FAMC @F52@
+1 FAMS @F53@
+0 @I140@ INDI
+1 NAME Son2 /Raina/
+2 DISPLAY Son2 Raina
+2 GIVN Son2
+2 SURN Raina
+1 POSITION 5630,920
+1 SEX M
+1 DEAT Y
+1 FAMC @F52@
+1 FAMS @F54@
+0 @I141@ INDI
+1 NAME Son1 /Raina/
+2 DISPLAY Son1 Raina
+2 GIVN Son1
+2 SURN Raina
+1 POSITION 5340,780
+1 SEX M
+1 DEAT Y
+1 FAMC @F53@
+0 @I143@ INDI
+1 NAME Brij  Nath /Raina/
+2 DISPLAY Brij  Nath Raina
+2 GIVN Brij 
+2 MIDDLE Nath
+2 SURN Raina
+1 POSITION 5460,780
+1 SEX M
+1 DEAT Y
+1 FAMC @F53@
+1 FAMS @F55@
+0 @I144@ INDI
+1 NAME  Anand  Kumar /Raina/
+2 DISPLAY  Anand  Kumar Raina
+2 GIVN  Anand 
+2 MIDDLE Kumar
+2 SURN Raina
+2 NPFX Diwan
+1 POSITION 5660,810
+1 SEX M
+1 DEAT Y
+1 NOTE VC undivided Punjab University
+1 FAMC @F54@
+0 @I145@ INDI
+1 NAME Anand  Narain /Raina/
+2 DISPLAY Anand  Narain Raina
+2 GIVN Anand 
+2 MIDDLE Narain
+2 SURN Raina
+1 POSITION 5410,620
+1 SEX M
+1 DEAT Y
+1 FAMC @F55@
+0 @I146@ INDI
+1 NAME Tapishwar  Narian /Raina/
+2 DISPLAY Tapishwar  Narian Raina
+2 GIVN Tapishwar 
+2 MIDDLE Narian
+2 SURN Raina
+1 POSITION 5490,620
+1 SEX M
+1 DEAT Y
+2 DATE 1921
+1 FAMC @F55@
+0 @I147@ INDI
+1 NAME Suraj  Narin /Raina/
+2 DISPLAY Suraj  Narin Raina
+2 GIVN Suraj 
+2 MIDDLE Narin
+2 SURN Raina
+1 POSITION 5560,620
+1 SEX M
+1 DEAT Y
+1 NOTE Chief of Indian Army staff and 
+2 CONT High Commissioner to Canada
+1 FAMC @F55@
+0 @I148@ INDI
+1 NAME Padam /Misri/
+2 DISPLAY Padam Misri
+2 GIVN Padam
+2 SURN Misri
+1 POSITION -4390,-1320
+1 SEX M
+1 CHILD_NO 3
+1 FAMC @F57@
+1 FAMS @F56@
+0 @I149@ INDI
+1 NAME Vijaya /Misri/
+2 DISPLAY Vijaya Misri
+2 GIVN Vijaya
+2 SURN Misri
+1 POSITION -3900,-1450
+1 SEX F
+1 FAMC @F58@
+1 FAMS @F56@
+0 @I150@ INDI
+1 NAME Dan /Misri/
+2 DISPLAY Dan Misri
+2 GIVN Dan
+2 SURN Misri
+1 POSITION -4300,-1850
+1 SEX M
+1 FAMC @F56@
+1 FAMS @fam00122@
+1 FAMS @fam00129@
+0 @I151@ INDI
+1 NAME Niranjan Nath /Misri/
+2 DISPLAY Niranjan Nath Misri
+2 GIVN Niranjan Nath
+2 SURN Misri
+1 POSITION -4650,-1170
+1 SEX M
+1 FAMS @F57@
+0 @I152@ INDI
+1 NAME Prahabavati /Misri/
+2 DISPLAY Prahabavati Misri
+2 GIVN Prahabavati
+2 SURN Misri
+1 POSITION -4570,-1180
+1 SEX F
+1 FAMS @F57@
+0 @I153@ INDI
+1 NAME Niranjan /Dhar/
+2 DISPLAY Niranjan Dhar
+2 GIVN Niranjan
+2 SURN Dhar
+1 POSITION -3690,-1310
+1 SEX M
+1 FAMS @F58@
+0 @I154@ INDI
+1 NAME Chandaji /Dhar/
+2 DISPLAY Chandaji Dhar
+2 GIVN Chandaji
+2 SURN Dhar
+1 POSITION -3620,-1310
+1 SEX F
+1 FAMS @F58@
+0 @I155@ INDI
+1 NAME Kuldeep /Dhar/
+2 DISPLAY Kuldeep Dhar
+2 GIVN Kuldeep
+2 SURN Dhar
+2 NICK Nanaa
+1 POSITION -3750,-1450
+1 SEX M
+1 FAMC @F58@
+1 FAMS @F59@
+0 @I156@ INDI
+1 NAME Anil /Dhar/
+2 DISPLAY Anil Dhar
+2 GIVN Anil
+2 SURN Dhar
+2 NICK Kukoo
+1 POSITION -3610,-1450
+1 SEX M
+1 FAMC @F58@
+1 FAMS @F60@
+0 @I157@ INDI
+1 NAME Sarla /Dhar/
+2 DISPLAY Sarla Dhar
+2 GIVN Sarla
+2 SURN Dhar
+1 POSITION -3680,-1450
+1 SEX F
+1 FAMS @F59@
+0 @I158@ INDI
+1 NAME Sunita /Dhar/
+2 DISPLAY Sunita Dhar
+2 GIVN Sunita
+2 SURN Dhar
+2 NICK Jolly
+1 POSITION -3540,-1450
+1 SEX F
+1 FAMS @F60@
+0 @I159@ INDI
+1 NAME Natasha /Sisodiya/
+2 DISPLAY Natasha Sisodiya
+2 GIVN Natasha
+2 SURN Sisodiya
+2 NICK Nanii
+1 POSITION -3750,-1590
+1 SEX F
+1 FAMC @F59@
+1 FAMS @F61@
+0 @I160@ INDI
+1 NAME Lokesh /Dhar/
+2 DISPLAY Lokesh Dhar
+2 GIVN Lokesh
+2 SURN Dhar
+1 POSITION -3680,-1590
+1 SEX M
+1 FAMC @F59@
+0 @I161@ INDI
+1 NAME Preeti /Dhar/
+2 DISPLAY Preeti Dhar
+2 GIVN Preeti
+2 SURN Dhar
+1 POSITION -3610,-1590
+1 SEX F
+1 FAMC @F60@
+0 @I162@ INDI
+1 NAME Sameer /Dhar/
+2 DISPLAY Sameer Dhar
+2 GIVN Sameer
+2 SURN Dhar
+1 POSITION -3540,-1590
+1 SEX M
+1 FAMC @F60@
+0 @I163@ INDI
+1 NAME Deepak /Sisodiya/
+2 DISPLAY Deepak Sisodiya
+2 GIVN Deepak
+2 SURN Sisodiya
+1 POSITION -3820,-1590
+1 SEX M
+1 FAMS @F61@
+0 @I164@ INDI
+1 NAME Shaan /Sisodiya/
+2 DISPLAY Shaan Sisodiya
+2 GIVN Shaan
+2 SURN Sisodiya
+1 POSITION -3830,-1730
+1 SEX M
+1 FAMC @F61@
+0 @I165@ INDI
+1 NAME Taran /Sisodiya/
+2 DISPLAY Taran Sisodiya
+2 GIVN Taran
+2 SURN Sisodiya
+1 POSITION -3760,-1730
+1 SEX M
+1 FAMC @F61@
+0 @I166@ INDI
+1 NAME Rikha  Mali /Razdan/
+2 DISPLAY Rikha  Mali Razdan
+2 GIVN Rikha 
+2 MIDDLE Mali
+2 SURN Razdan
+1 POSITION 5540,1070
+1 SEX F
+1 DEAT Y
+1 FAMS @F52@
+0 @I167@ INDI
+1 NAME Wac Dedi /Bhan/
+2 DISPLAY Wac Dedi Bhan
+2 GIVN Wac Dedi
+2 SURN Bhan
+1 POSITION 3810,790
+1 SEX F
+1 DEAT Y
+1 FAMC @F41@
+1 FAMS @F63@
+0 @I168@ INDI
+1 NAME RupaDedi //
+2 DISPLAY RupaDedi
+2 GIVN RupaDedi
+1 POSITION 3990,790
+1 SEX F
+1 FAMC @F41@
+1 FAMS @F62@
+0 @I169@ INDI
+1 NAME Suraj /Kaul/
+2 DISPLAY Suraj Kaul
+2 GIVN Suraj
+2 SURN Kaul
+1 POSITION 3910,790
+1 SEX M
+1 FAMS @F62@
+0 @I170@ INDI
+1 NAME Sundri /Bhan/
+2 DISPLAY Sundri Bhan
+2 GIVN Sundri
+2 SURN Bhan
+1 POSITION 3740,770
+1 SEX M
+1 DEAT Y
+1 FAMS @F63@
+0 @I171@ INDI
+1 NAME Sataram /Bhan/
+2 DISPLAY Sataram Bhan
+2 GIVN Sataram
+2 SURN Bhan
+1 POSITION 3700,630
+1 SEX M
+1 FAMC @F63@
+0 @I172@ INDI
+1 NAME Samsar Chand /Bhan/
+2 DISPLAY Samsar Chand Bhan
+2 GIVN Samsar Chand
+2 SURN Bhan
+1 POSITION 3770,630
+1 SEX M
+1 FAMC @F63@
+0 @I173@ INDI
+1 NAME Shridhar /Bhan/
+2 DISPLAY Shridhar Bhan
+2 GIVN Shridhar
+2 SURN Bhan
+1 POSITION 3840,630
+1 SEX F
+1 FAMC @F63@
+0 @I174@ INDI
+1 NAME Mali-a-Hari  /Razdan/
+2 DISPLAY Mali-a-Hari  Razdan
+2 GIVN Mali-a-Hari 
+2 SURN Razdan
+2 NICK Canjus of Sopor
+1 POSITION -740,940
+1 SEX F
+1 DEAT Y
+1 NOTE Canjus of Sopor
+1 FAMS @F41@
+0 @I175@ INDI
+1 NAME Dedar Dedi //
+2 DISPLAY Dedar Dedi
+2 GIVN Dedar Dedi
+1 POSITION 4250,940
+1 SEX F
+1 DEAT Y
+1 FAMC @F44@
+1 FAMS @F65@
+0 @I176@ INDI
+1 NAME SangDedi /Bamzai/
+2 DISPLAY SangDedi Bamzai
+2 GIVN SangDedi
+2 SURN Bamzai
+1 POSITION 4510,930
+1 SEX F
+1 DEAT Y
+1 FAMC @F44@
+1 FAMS @F68@
+0 @I177@ INDI
+1 NAME Mahadev /Razdan/
+2 DISPLAY Mahadev Razdan
+2 GIVN Mahadev
+2 SURN Razdan
+1 POSITION 4630,930
+1 SEX M
+1 DEAT Y
+1 FAMC @F44@
+1 FAMS @F71@
+1 FAMS @F72@
+0 @I178@ INDI
+1 NAME Boni Mali /Zutshi/
+2 DISPLAY Boni Mali Zutshi
+2 GIVN Boni
+2 MIDDLE Mali
+2 SURN Zutshi
+1 POSITION 5150,940
+1 SEX F
+1 DEAT Y
+1 FAMC @F44@
+1 FAMS @F74@
+0 @I179@ INDI
+1 NAME Dar of Vicharnag //
+2 DISPLAY Dar of Vicharnag
+2 GIVN Dar of Vicharnag
+1 POSITION 4180,940
+1 SEX M
+1 DEAT Y
+1 FAMS @F65@
+0 @I180@ INDI
+1 NAME Madri //
+2 DISPLAY Madri
+2 GIVN Madri
+1 POSITION 4140,800
+1 SEX F
+1 DEAT Y
+1 FAMC @F65@
+1 FAMS @F66@
+0 @I181@ INDI
+1 NAME Vanari //
+2 DISPLAY Vanari
+2 GIVN Vanari
+1 POSITION 4280,800
+1 SEX F
+1 DEAT Y
+1 FAMC @F65@
+1 FAMS @F67@
+0 @I182@ INDI
+1 NAME Unknown /Sapru/
+2 DISPLAY Unknown Sapru
+2 GIVN Unknown
+2 SURN Sapru
+1 POSITION 4060,800
+1 SEX M
+1 DEAT Y
+1 FAMS @F66@
+0 @I183@ INDI
+1 NAME SamsarChand /Sapru/
+2 DISPLAY SamsarChand Sapru
+2 GIVN SamsarChand
+2 SURN Sapru
+1 POSITION 4090,690
+1 SEX M
+1 FAMC @F66@
+0 @I184@ INDI
+1 NAME NilaKanth //
+2 DISPLAY NilaKanth
+2 GIVN NilaKanth
+1 POSITION 4210,660
+1 SEX M
+1 FAMC @F67@
+0 @I185@ INDI
+1 NAME Daughter //
+2 DISPLAY Daughter
+2 GIVN Daughter
+1 POSITION 4290,660
+1 SEX F
+1 FAMC @F67@
+0 @I186@ INDI
+1 NAME Tota  Kaul /Bamzai/
+2 DISPLAY Tota  Kaul Bamzai
+2 GIVN Tota 
+2 MIDDLE Kaul
+2 SURN Bamzai
+1 POSITION 4430,950
+1 SEX M
+1 DEAT Y
+1 FAMS @F68@
+0 @I187@ INDI
+1 NAME Anand /Kaul/
+2 DISPLAY Anand Kaul
+2 GIVN Anand
+2 SURN Kaul
+1 POSITION 4370,790
+1 SEX M
+1 FAMC @F68@
+1 FAMS @F69@
+0 @I188@ INDI
+1 NAME Tekri //
+2 DISPLAY Tekri
+2 GIVN Tekri
+1 POSITION 4560,790
+1 SEX F
+1 FAMC @F68@
+1 FAMS @F70@
+0 @I189@ INDI
+1 NAME PrithviNath //
+2 DISPLAY PrithviNath
+2 GIVN PrithviNath
+1 POSITION 4360,650
+1 SEX M
+1 FAMC @F69@
+0 @I190@ INDI
+1 NAME SampaKuji //
+2 DISPLAY SampaKuji
+2 GIVN SampaKuji
+1 POSITION 4450,650
+1 SEX F
+1 FAMC @F69@
+0 @I191@ INDI
+1 NAME Krishen Joo /Ganjoo/
+2 DISPLAY Krishen Joo Ganjoo
+2 GIVN Krishen Joo
+2 SURN Ganjoo
+1 POSITION 4520,680
+1 SEX M
+1 FAMC @F70@
+0 @I192@ INDI
+1 NAME Qudi-a-Savidani /Razdan/
+2 DISPLAY Qudi-a-Savidani Razdan
+2 GIVN Qudi-a-Savidani
+2 SURN Razdan
+1 POSITION 4710,950
+1 SEX F
+1 DEAT Y
+1 FAMS @F71@
+0 @I193@ INDI
+1 NAME Tej  Mali /Razdan/
+2 DISPLAY Tej  Mali Razdan
+2 GIVN Tej 
+2 MIDDLE Mali
+2 SURN Razdan
+1 POSITION 4950,950
+1 SEX F
+1 DEAT Y
+1 FAMS @F72@
+0 @I194@ INDI
+1 NAME TaraChand /Razdan/
+2 DISPLAY TaraChand Razdan
+2 GIVN TaraChand
+2 SURN Razdan
+1 POSITION 4760,820
+1 SEX M
+1 DEAT Y
+1 FAMC @F72@
+0 @I195@ INDI
+1 NAME Sati //
+2 DISPLAY Sati
+2 GIVN Sati
+1 POSITION 4910,820
+1 SEX F
+1 DEAT Y
+1 FAMC @F72@
+1 FAMS @F73@
+0 @I196@ INDI
+1 NAME Chaloo //
+2 DISPLAY Chaloo
+2 GIVN Chaloo
+1 POSITION 4840,820
+1 SEX M
+1 DEAT Y
+1 FAMS @F73@
+0 @I197@ INDI
+1 NAME Madu /Zutshi/
+2 DISPLAY Madu Zutshi
+2 GIVN Madu
+2 SURN Zutshi
+1 POSITION 5080,930
+1 SEX M
+1 DEAT Y
+1 FAMS @F74@
+0 @I198@ INDI
+1 NAME Sumali /Parimoo/
+2 DISPLAY Sumali Parimoo
+2 GIVN Sumali
+2 SURN Parimoo
+1 POSITION 5100,820
+1 SEX F
+1 DEAT Y
+1 FAMC @F74@
+1 FAMS @F75@
+0 @I199@ INDI
+1 NAME Parmanand /Parimoo/
+2 DISPLAY Parmanand Parimoo
+2 GIVN Parmanand
+2 SURN Parimoo
+1 POSITION 5020,820
+1 SEX M
+1 DEAT Y
+1 FAMS @F75@
+0 @I200@ INDI
+1 NAME Jewanlal /Parimoo/
+2 DISPLAY Jewanlal Parimoo
+2 GIVN Jewanlal
+2 SURN Parimoo
+1 POSITION 5050,700
+1 SEX M
+1 DEAT Y
+1 FAMC @F75@
+1 FAMS @F76@
+0 @I201@ INDI
+1 NAME Omkar Nath /Parimoo/
+2 DISPLAY Omkar Nath Parimoo
+2 GIVN Omkar
+2 MIDDLE Nath
+2 SURN Parimoo
+1 POSITION 5070,590
+1 SEX M
+1 DEAT Y
+1 FAMC @F76@
+0 @I202@ INDI
+1 NAME Lachha Kuji /Dhar/
+2 DISPLAY Lachha Kuji Dhar
+2 GIVN Lachha Kuji
+2 SURN Dhar
+1 POSITION 3460,630
+1 SEX F
+1 DEAT Y
+1 FAMC @F42@
+1 FAMS @F87@
+0 @I203@ INDI
+1 NAME Gunamalià /Sopori/
+2 DISPLAY Gunamalià Sopori
+2 GIVN Gunamalià
+2 SURN Sopori
+1 POSITION 3620,630
+1 SEX F
+1 DEAT Y
+1 FAMC @F42@
+1 FAMS @F84@
+0 @I204@ INDI
+1 NAME Bhagwan Dass /Raina/
+2 DISPLAY Bhagwan Dass Raina
+2 GIVN Bhagwan Dass
+2 SURN Raina
+1 POSITION 2000,480
+1 SEX M
+1 DEAT Y
+1 FAMC @F43@
+1 FAMS @F77@
+0 @I205@ INDI
+1 NAME Rukhmani /Zutshi/
+2 DISPLAY Rukhmani Zutshi
+2 GIVN Rukhmani
+2 SURN Zutshi
+1 POSITION 2210,470
+1 SEX F
+1 FAMC @F43@
+1 FAMS @F78@
+0 @I206@ INDI
+1 NAME Sona Batni /Quazi/
+2 DISPLAY Sona Batni Quazi
+2 GIVN Sona
+2 MIDDLE Batni
+2 SURN Quazi
+1 POSITION 2350,480
+1 SEX F
+1 FAMC @F43@
+1 FAMS @F79@
+0 @I207@ INDI
+1 NAME Kamla /Bakshi/
+2 DISPLAY Kamla Bakshi
+2 GIVN Kamla
+2 SURN Bakshi
+1 POSITION 2490,470
+1 SEX F
+1 FAMC @F43@
+1 FAMS @F80@
+0 @I208@ INDI
+1 NAME Radhika Rani /Raina/
+2 DISPLAY Radhika Rani Raina
+2 GIVN Radhika
+2 MIDDLE Rani
+2 SURN Raina
+1 POSITION 2070,480
+1 SEX F
+1 DEAT Y
+1 FAMS @F77@
+0 @I209@ INDI
+1 NAME Janki Nath /Zutshi/
+2 DISPLAY Janki Nath Zutshi
+2 GIVN Janki Nath
+2 SURN Zutshi
+1 POSITION 2140,480
+1 SEX M
+1 FAMS @F78@
+0 @I210@ INDI
+1 NAME Prithvi Nath /Quazi/
+2 DISPLAY Prithvi Nath Quazi
+2 GIVN Prithvi Nath
+2 SURN Quazi
+1 POSITION 2290,480
+1 SEX M
+1 FAMS @F79@
+0 @I211@ INDI
+1 NAME Raj Nath  /Bakshi/
+2 DISPLAY Raj Nath  Bakshi
+2 GIVN Raj Nath 
+2 SURN Bakshi
+2 NICK Jammu
+1 POSITION 2420,480
+1 SEX M
+1 FAMS @F80@
+0 @I212@ INDI
+1 NAME Raghu  Nath /Mattoo/
+2 DISPLAY Raghu  Nath Mattoo
+2 GIVN Raghu 
+2 MIDDLE Nath
+2 SURN Mattoo
+1 POSITION 2560,640
+1 SEX M
+1 DEAT Y
+1 FAMS @F81@
+0 @I213@ INDI
+1 NAME Shambu Nath //
+2 DISPLAY Shambu Nath
+2 GIVN Shambu Nath
+2 NICK (Adopted)
+1 POSITION 2580,510
+1 SEX M
+1 DEAT Y
+1 FAMC @F81@
+0 @I214@ INDI
+1 NAME Dina  Nath /Dhar/
+2 DISPLAY Dina  Nath Dhar
+2 GIVN Dina 
+2 MIDDLE Nath
+2 SURN Dhar
+1 POSITION 2750,640
+1 SEX M
+1 DEAT Y
+1 FAMS @F82@
+0 @I215@ INDI
+1 NAME Raj Nath /Dhar/
+2 DISPLAY Raj Nath Dhar
+2 GIVN Raj
+2 MIDDLE Nath
+2 SURN Dhar
+1 POSITION 2710,480
+1 SEX M
+1 FAMC @F82@
+0 @I216@ INDI
+1 NAME Rupa //
+2 DISPLAY Rupa
+2 GIVN Rupa
+1 POSITION 2770,480
+1 SEX F
+1 FAMC @F82@
+0 @I217@ INDI
+1 NAME Vidhya //
+2 DISPLAY Vidhya
+2 GIVN Vidhya
+1 POSITION 2840,480
+1 SEX F
+1 FAMC @F82@
+0 @I218@ INDI
+1 NAME Radha Krishn /Dhar/
+2 DISPLAY Radha Krishn Dhar
+2 GIVN Radha Krishn
+2 SURN Dhar
+1 POSITION 3260,630
+1 SEX M
+1 DEAT Y
+1 FAMS @F83@
+0 @I219@ INDI
+1 NAME Triloki Nath /Dhar/
+2 DISPLAY Triloki Nath Dhar
+2 GIVN Triloki
+2 MIDDLE Nath
+2 SURN Dhar
+1 POSITION 3260,480
+1 SEX M
+1 FAMC @F83@
+0 @I220@ INDI
+1 NAME Kanta /Dhar/
+2 DISPLAY Kanta Dhar
+2 GIVN Kanta
+2 SURN Dhar
+1 POSITION 3330,480
+1 SEX F
+1 FAMC @F83@
+0 @I221@ INDI
+1 NAME Jawaharlal /Sopori/
+2 DISPLAY Jawaharlal Sopori
+2 GIVN Jawaharlal
+2 SURN Sopori
+1 POSITION 3540,630
+1 SEX M
+1 DEAT Y
+1 FAMS @F84@
+0 @I222@ INDI
+1 NAME Motilal /Sopori/
+2 DISPLAY Motilal Sopori
+2 GIVN Motilal
+2 SURN Sopori
+1 POSITION 3540,490
+1 SEX M
+1 FAMC @F84@
+0 @I224@ INDI
+1 NAME Sheela //
+2 DISPLAY Sheela
+2 GIVN Sheela
+1 POSITION 3610,490
+1 SEX F
+1 FAMC @F84@
+0 @I225@ INDI
+1 NAME Mahalarni /Raina/
+2 DISPLAY Mahalarni Raina
+2 GIVN Mahalarni
+2 SURN Raina
+1 POSITION 3070,620
+1 SEX F
+1 DEAT Y
+1 FAMS @F85@
+0 @I226@ INDI
+1 NAME Arundati /Raina/
+2 DISPLAY Arundati Raina
+2 GIVN Arundati
+2 SURN Raina
+1 POSITION 3190,620
+1 SEX F
+1 DEAT Y
+1 FAMS @F86@
+0 @I227@ INDI
+1 NAME Maharaj Krishen /Raina/
+2 DISPLAY Maharaj Krishen Raina
+2 GIVN Maharaj
+2 MIDDLE Krishen
+2 SURN Raina
+1 POSITION 3120,510
+1 SEX M
+1 DEAT Y
+1 FAMC @F86@
+0 @I228@ INDI
+1 NAME Amar Nath /Dhar/
+2 DISPLAY Amar Nath Dhar
+2 GIVN Amar Nath
+2 SURN Dhar
+1 POSITION 3400,630
+1 SEX M
+1 DEAT Y
+1 FAMS @F87@
+0 @I229@ INDI
+1 NAME Bhaya /Hashia/
+2 DISPLAY Bhaya Hashia
+2 GIVN Bhaya
+2 SURN Hashia
+2 NICK Bhaya
+1 POSITION -2210,660
+1 SEX M
+1 DEAT Y
+2 DATE 1970
+1 FAMS @F88@
+0 @I230@ INDI
+1 NAME Akio /Moti/
+2 DISPLAY Akio Moti
+2 GIVN Akio
+2 SURN Moti
+1 POSITION -5610,-130
+1 SEX M
+1 FAMC @F39@
+1 FAMS @fam00144@
+0 @I231@ INDI
+1 NAME Shireen /Moti/
+2 DISPLAY Shireen Moti
+2 GIVN Shireen
+2 SURN Moti
+1 POSITION -5390,-130
+1 SEX F
+1 FAMC @F39@
+1 FAMS @fam00143@
+0 @I232@ INDI
+1 NAME Ratnaji /Raina/
+2 DISPLAY Ratnaji Raina (Vuthoo)
+2 GIVN Ratnaji
+2 SURN Raina
+2 LAST2 Vuthoo
+1 POSITION -5420,140
+1 SEX F
+1 FAMS @F25@
+0 @I234@ INDI
+1 NAME MK /Dhar/
+2 DISPLAY MK Dhar
+2 GIVN MK
+2 SURN Dhar
+2 NICK Jijaji
+1 POSITION -2510,130
+1 SEX M
+1 DEAT Y
+1 FAMS @F26@
+0 @I235@ INDI
+1 NAME Suman /Raina/
+2 DISPLAY Suman Raina
+2 GIVN Suman
+2 SURN Raina
+1 POSITION -1690,-20
+1 SEX F
+1 DEAT Y
+1 FAMS @F89@
+0 @I236@ INDI
+1 NAME Usha /Raina/
+2 DISPLAY Usha Raina
+2 GIVN Usha
+2 SURN Raina
+1 POSITION -1350,-20
+1 SEX F
+1 FAMS @F90@
+0 @I237@ INDI
+1 NAME Boy /Raina/
+2 DISPLAY Boy Raina
+2 GIVN Boy
+2 SURN Raina
+2 NICK in australia
+1 POSITION -1410,-160
+1 SEX M
+1 FAMC @F90@
+0 @I238@ INDI
+1 NAME Boy /Raina/
+2 DISPLAY Boy Raina
+2 GIVN Boy
+2 SURN Raina
+1 POSITION -1350,-160
+1 SEX M
+1 FAMC @F90@
+0 @I239@ INDI
+1 NAME Akshay //
+2 DISPLAY Akshay
+2 GIVN Akshay
+1 POSITION -1550,-160
+1 SEX M
+1 FAMS @F91@
+0 @I240@ INDI
+1 NAME Ann /Choudhary/
+2 DISPLAY Ann Choudhary
+2 GIVN Ann
+2 SURN Choudhary
+1 POSITION -1170,-20
+1 SEX F
+1 FAMS @F92@
+0 @I241@ INDI
+1 NAME Indra /Choudhary/
+2 DISPLAY Indra Choudhary
+2 GIVN Indra
+2 SURN Choudhary
+1 POSITION -1270,-160
+1 SEX F
+1 FAMC @F92@
+0 @I242@ INDI
+1 NAME Daughter //
+2 DISPLAY Daughter
+2 GIVN Daughter
+1 POSITION -1190,-160
+1 SEX F
+1 FAMC @F92@
+0 @I243@ INDI
+1 NAME Nancy /Choudhary/
+2 DISPLAY Nancy Choudhary
+2 GIVN Nancy
+2 SURN Choudhary
+1 POSITION -990,-20
+1 SEX F
+1 FAMS @F93@
+0 @I244@ INDI
+1 NAME Rita /Choudhary/
+2 DISPLAY Rita Choudhary
+2 GIVN Rita
+2 SURN Choudhary
+1 POSITION -1090,-160
+1 SEX F
+1 FAMC @F93@
+0 @I245@ INDI
+1 NAME Vivek /Choudhary/
+2 DISPLAY Vivek Choudhary
+2 GIVN Vivek
+2 SURN Choudhary
+2 NPFX Dr.
+1 POSITION -1000,-170
+1 SEX M
+1 FAMC @F93@
+1 FAMS @F94@
+0 @I246@ INDI
+1 NAME Joanna /Choudhary/
+2 DISPLAY Joanna Choudhary (Sharp)
+2 GIVN Joanna
+2 SURN Choudhary
+2 LAST2 Sharp
+1 POSITION -920,-160
+1 SEX F
+1 FAMS @F94@
+0 @I247@ INDI
+1 NAME Husband //
+2 DISPLAY Husband
+2 GIVN Husband
+1 POSITION -840,-180
+1 SEX M
+1 FAMS @F95@
+0 @I248@ INDI
+1 NAME Son //
+2 DISPLAY Son
+2 GIVN Son
+1 POSITION -820,-290
+1 SEX M
+1 FAMC @F95@
+0 @I249@ INDI
+1 NAME Sidarth /Wakhlu/
+2 DISPLAY Sidarth Wakhlu
+2 GIVN Sidarth
+2 SURN Wakhlu
+2 NPFX Dr
+1 POSITION -670,-180
+1 SEX M
+1 FAMS @F96@
+0 @I250@ INDI
+1 NAME Nausheen /Wakhlu/
+2 DISPLAY Nausheen Wakhlu
+2 GIVN Nausheen
+2 SURN Wakhlu
+1 POSITION -680,-320
+1 SEX F
+1 FAMC @F96@
+0 @I251@ INDI
+1 NAME Leela /Choudhary/
+2 DISPLAY Leela Choudhary
+2 GIVN Leela
+2 SURN Choudhary
+1 POSITION -620,-40
+1 SEX F
+1 FAMS @F32@
+0 @I252@ INDI
+1 NAME Deepak /Kaul/
+2 DISPLAY Deepak Kaul
+2 GIVN Deepak
+2 SURN Kaul
+2 NICK Munna
+1 POSITION -70,-160
+1 SEX M
+1 FAMC @F97@
+1 FAMS @F98@
+0 @I253@ INDI
+1 NAME Dr Chintu /Kaul/
+2 DISPLAY Dr Chintu Kaul
+2 GIVN Dr Chintu
+2 SURN Kaul
+2 NICK England
+1 POSITION 70,-160
+1 SEX M
+1 FAMC @F97@
+0 @I254@ INDI
+1 NAME Married //
+2 DISPLAY Married
+2 GIVN Married
+1 POSITION 0,-160
+1 SEX F
+1 FAMS @F98@
+0 @I255@ INDI
+1 NAME Jaya /Choudhary/
+2 DISPLAY Jaya Choudhary
+2 GIVN Jaya
+2 SURN Choudhary
+1 POSITION -150,-20
+1 SEX F
+1 FAMS @F99@
+0 @I256@ INDI
+1 NAME Tara /Choudhary/
+2 DISPLAY Tara Choudhary
+2 GIVN Tara
+2 SURN Choudhary
+1 POSITION -210,-130
+1 SEX F
+1 FAMC @F99@
+0 @I257@ INDI
+1 NAME John J /Lee/
+2 DISPLAY John J Lee
+2 GIVN John
+2 MIDDLE J
+2 SURN Lee
+2 NPFX Dr.
+1 POSITION -510,-180
+1 SEX M
+1 FAMS @F100@
+0 @I258@ INDI
+1 NAME Twin1 /Lee/
+2 DISPLAY Twin1 Lee
+2 GIVN Twin1
+2 SURN Lee
+1 POSITION -510,-320
+1 SEX M
+1 FAMC @F100@
+0 @I259@ INDI
+1 NAME Twin2 /Lee/
+2 DISPLAY Twin2 Lee
+2 GIVN Twin2
+2 SURN Lee
+1 POSITION -450,-320
+1 SEX M
+1 FAMC @F100@
+0 @I260@ INDI
+1 NAME Nalini /Raina/
+2 DISPLAY Nalini Raina
+2 GIVN Nalini
+2 SURN Raina
+1 POSITION 200,-20
+1 SEX F
+1 FAMS @F101@
+0 @I261@ INDI
+1 NAME Mahima /Raina/
+2 DISPLAY Mahima Raina
+2 GIVN Mahima
+2 SURN Raina
+2 NICK Mini - Canada
+1 POSITION 130,-160
+1 SEX F
+1 FAMC @F101@
+0 @I262@ INDI
+1 NAME Son /Raina/
+2 DISPLAY Son Raina
+2 GIVN Son
+2 SURN Raina
+1 POSITION 200,-160
+1 SEX M
+1 FAMC @F101@
+0 @I263@ INDI
+1 NAME Sunita /Raina/
+2 DISPLAY Sunita Raina
+2 GIVN Sunita
+2 SURN Raina
+1 POSITION 340,-20
+1 SEX F
+1 FAMS @F102@
+0 @I264@ INDI
+1 NAME Son //
+2 DISPLAY Son
+2 GIVN Son
+2 NICK Writer
+1 POSITION 270,-160
+1 SEX M
+1 FAMC @F102@
+0 @I265@ INDI
+1 NAME Aditya /Raina/
+2 DISPLAY Aditya Raina
+2 GIVN Aditya
+2 SURN Raina
+2 NICK Manu- Canada
+1 POSITION 340,-160
+1 SEX M
+1 FAMC @F102@
+0 @I266@ INDI
+1 NAME Veena /Raina/
+2 DISPLAY Veena Raina
+2 GIVN Veena
+2 SURN Raina
+1 POSITION 510,-20
+1 SEX F
+1 FAMS @F103@
+0 @I267@ INDI
+1 NAME Nishant /Raina/
+2 DISPLAY Nishant Raina
+2 GIVN Nishant
+2 SURN Raina
+1 POSITION 410,-160
+1 SEX M
+1 FAMC @F103@
+1 FAMS @fam00127@
+0 @I268@ INDI
+1 NAME Nikkhil /Raina/
+2 DISPLAY Nikkhil Raina
+2 GIVN Nikkhil
+2 SURN Raina
+1 POSITION 540,-160
+1 SEX M
+1 FAMC @F103@
+0 @I269@ INDI
+1 NAME Kunal /Nadir/
+2 DISPLAY Kunal Nadir
+2 GIVN Kunal
+2 SURN Nadir
+1 POSITION 610,-160
+1 SEX M
+1 FAMS @F104@
+0 @I270@ INDI
+1 NAME Adi /Nadir/
+2 DISPLAY Adi Nadir
+2 GIVN Adi
+2 SURN Nadir
+1 POSITION 610,-310
+1 SEX M
+1 FAMC @F104@
+0 @I271@ INDI
+1 NAME Abhishek /Raina/
+2 DISPLAY Abhishek Raina
+2 GIVN Abhishek
+2 SURN Raina
+1 POSITION 750,-160
+1 SEX M
+1 FAMC @F36@
+1 FAMS @F105@
+0 @I272@ INDI
+1 NAME Annapurna /Raina/
+2 DISPLAY Annapurna Raina
+2 GIVN Annapurna
+2 SURN Raina
+1 POSITION 830,-160
+1 SEX F
+1 FAMS @F105@
+0 @I273@ INDI
+1 NAME Vinodji /Kaul/
+2 DISPLAY Vinodji Kaul
+2 GIVN Vinodji
+2 SURN Kaul
+2 NICK Vinodji
+1 POSITION 1440,-20
+1 SEX M
+1 FAMS @F106@
+0 @I274@ INDI
+1 NAME S K /Kaul/
+2 DISPLAY S K Kaul
+2 GIVN S
+2 MIDDLE K
+2 SURN Kaul
+2 NICK Kakaji
+1 POSITION 1050,-30
+1 SEX M
+1 DEAT Y
+2 DATE 2010
+1 FAMS @F107@
+0 @I275@ INDI
+1 NAME Tini /Kaul/
+2 DISPLAY Tini Kaul
+2 GIVN Tini
+2 SURN Kaul
+2 NICK Tini
+1 POSITION 910,-180
+1 SEX M
+1 FAMC @F107@
+1 FAMS @F108@
+0 @I276@ INDI
+1 NAME Sonu /Kaul/
+2 DISPLAY Sonu Kaul
+2 GIVN Sonu
+2 SURN Kaul
+2 NICK Sonu
+1 POSITION 1060,-180
+1 SEX M
+1 FAMC @F107@
+1 FAMS @F109@
+0 @I277@ INDI
+1 NAME Pari /Raina/
+2 DISPLAY Pari Raina
+2 GIVN Pari
+2 SURN Raina
+2 NICK Pari
+1 POSITION 1260,-180
+1 SEX F
+1 FAMC @F107@
+1 FAMS @F110@
+0 @I278@ INDI
+1 NAME Wife /Kaul/
+2 DISPLAY Wife Kaul
+2 GIVN Wife
+2 SURN Kaul
+1 POSITION 980,-180
+1 SEX F
+1 FAMS @F108@
+0 @I279@ INDI
+1 NAME Wife /Kaul/
+2 DISPLAY Wife Kaul
+2 GIVN Wife
+2 SURN Kaul
+1 POSITION 1120,-180
+1 SEX F
+1 FAMS @F109@
+0 @I280@ INDI
+1 NAME Married Pari //
+2 DISPLAY Married Pari
+2 GIVN Married Pari
+1 POSITION 1190,-180
+1 SEX M
+1 FAMS @F110@
+0 @I281@ INDI
+1 NAME Son /Kaul/
+2 DISPLAY Son Kaul
+2 GIVN Son
+2 SURN Kaul
+1 POSITION 930,-290
+1 SEX M
+1 FAMC @F108@
+0 @I282@ INDI
+1 NAME Son /Kaul/
+2 DISPLAY Son Kaul
+2 GIVN Son
+2 SURN Kaul
+1 POSITION 1050,-320
+1 SEX M
+1 FAMC @F109@
+0 @I283@ INDI
+1 NAME Daughter /Kaul/
+2 DISPLAY Daughter Kaul
+2 GIVN Daughter
+2 SURN Kaul
+1 POSITION 1120,-320
+1 SEX F
+1 FAMC @F109@
+0 @I284@ INDI
+1 NAME Daughter UK //
+2 DISPLAY Daughter UK
+2 GIVN Daughter
+2 MIDDLE UK
+2 NICK UK
+1 POSITION 1400,-160
+1 SEX F
+1 FAMC @F106@
+1 FAMS @F111@
+0 @I285@ INDI
+1 NAME Daughter UK //
+2 DISPLAY Daughter UK
+2 GIVN Daughter
+2 MIDDLE UK
+2 NICK UK
+1 POSITION 1540,-160
+1 SEX F
+1 FAMC @F106@
+1 FAMS @F112@
+0 @I286@ INDI
+1 NAME hubby //
+2 DISPLAY hubby
+2 GIVN hubby
+1 POSITION 1330,-160
+1 SEX M
+1 FAMS @F111@
+0 @I287@ INDI
+1 NAME hubby //
+2 DISPLAY hubby
+2 GIVN hubby
+1 POSITION 1470,-160
+1 SEX M
+1 FAMS @F112@
+0 @I288@ INDI
+1 NAME Anud /Kaul/
+2 DISPLAY Anud Kaul
+2 GIVN Anud
+2 SURN Kaul
+1 POSITION -2600,-20
+1 SEX M
+1 FAMS @F113@
+0 @I289@ INDI
+1 NAME Abhinav /Kaul/
+2 DISPLAY Abhinav Kaul
+2 GIVN Abhinav
+2 SURN Kaul
+1 POSITION -2580,-130
+1 SEX M
+1 FAMC @F113@
+1 FAMS @fam00145@
+0 @I290@ INDI
+1 NAME Meenakshi /Dhar/
+2 DISPLAY Meenakshi Dhar
+2 GIVN Meenakshi
+2 SURN Dhar
+1 POSITION -2370,-10
+1 SEX F
+1 FAMS @F114@
+0 @I291@ INDI
+1 NAME Heemal /Dhar/
+2 DISPLAY Heemal Dhar
+2 GIVN Heemal
+2 SURN Dhar
+1 POSITION -2440,-150
+1 SEX F
+1 FAMC @F114@
+0 @I292@ INDI
+1 NAME Arudhya /Dhar/
+2 DISPLAY Arudhya Dhar
+2 GIVN Arudhya
+2 SURN Dhar
+1 POSITION -2370,-150
+1 SEX F
+1 FAMC @F114@
+0 @I293@ INDI
+1 NAME Rohit /Kachroo/
+2 DISPLAY Rohit Kachroo
+2 GIVN Rohit
+2 SURN Kachroo
+1 POSITION -2290,-20
+1 SEX M
+1 FAMS @F115@
+0 @I294@ INDI
+1 NAME Akshat /Kachroo/
+2 DISPLAY Akshat Kachroo
+2 GIVN Akshat
+2 SURN Kachroo
+1 POSITION -2270,-130
+1 SEX M
+1 FAMC @F115@
+0 @I295@ INDI
+1 NAME Subher /Kher/
+2 DISPLAY Subher Kher
+2 GIVN Subher
+2 SURN Kher
+1 POSITION -2150,-20
+1 SEX M
+1 FAMS @F116@
+0 @I296@ INDI
+1 NAME Sanvi /Kher/
+2 DISPLAY Sanvi Kher
+2 GIVN Sanvi
+2 SURN Kher
+1 POSITION -2120,-130
+1 SEX F
+1 FAMC @F116@
+0 @I297@ INDI
+1 NAME Shakuntlaji /Raina/
+2 DISPLAY Shakuntlaji Raina
+2 GIVN Shakuntlaji
+2 SURN Raina
+1 POSITION -2100,130
+1 SEX F
+1 FAMS @F27@
+0 @ind00298@ INDI
+1 NAME Emma dad /Kelley/
+2 DISPLAY Emma dad Kelley
+2 GIVN Emma dad
+2 SURN Kelley
+1 POSITION -3500,-160
+1 SEX M
+1 FAMS @fam00117@
+0 @ind00299@ INDI
+1 NAME Emma /Kelley/
+2 DISPLAY Emma Kelley
+2 GIVN Emma
+2 SURN Kelley
+1 POSITION -3450,-290
+1 SEX F
+1 FAMC @fam00117@
+0 @ind00300@ INDI
+1 NAME Ben /Alexander/
+2 DISPLAY Ben Alexander
+2 GIVN Ben
+2 SURN Alexander
+1 POSITION -3580,-180
+1 SEX M
+1 FAMS @fam00118@
+0 @ind00301@ INDI
+1 NAME Ashok /Munshi/
+2 DISPLAY Ashok Munshi
+2 GIVN Ashok
+2 SURN Munshi
+1 POSITION -2820,-180
+1 SEX M
+1 FAMC @F12@
+0 @ind00302@ INDI
+1 NAME Nikhel /Solanki/
+2 DISPLAY Nikhel Solanki
+2 GIVN Nikhel
+2 SURN Solanki
+1 POSITION -2960,-190
+1 SEX M
+1 FAMS @fam00119@
+0 @ind00303@ INDI
+1 NAME Sonu /Kaul/
+2 DISPLAY Sonu Kaul
+2 GIVN Sonu
+2 SURN Kaul
+1 POSITION -3240,-30
+1 SEX F
+1 FAMC @F4@
+1 FAMS @fam00120@
+0 @ind00304@ INDI
+1 NAME Chandrika /Kaul/
+2 DISPLAY Chandrika Kaul
+2 GIVN Chandrika
+2 SURN Kaul
+2 NICK Chandi
+1 POSITION -3100,-30
+1 SEX F
+1 FAMC @F4@
+1 FAMS @fam00121@
+0 @ind00305@ INDI
+1 NAME ? //
+2 DISPLAY ?
+2 GIVN ?
+1 POSITION -3310,-30
+1 SEX M
+1 FAMS @fam00120@
+0 @ind00306@ INDI
+1 NAME ? //
+2 DISPLAY ?
+2 GIVN ?
+1 POSITION -3180,-30
+1 SEX M
+1 FAMS @fam00121@
+0 @ind00307@ INDI
+1 NAME ? //
+2 DISPLAY ?
+2 GIVN ?
+1 POSITION -3290,-140
+1 SEX M
+1 FAMC @fam00120@
+0 @ind00308@ INDI
+1 NAME ? //
+2 DISPLAY ?
+2 GIVN ?
+1 POSITION -3180,-170
+1 SEX M
+1 FAMC @fam00121@
+0 @ind00309@ INDI
+1 NAME ? //
+2 DISPLAY ?
+2 GIVN ?
+1 POSITION -3110,-170
+1 SEX F
+1 FAMC @fam00121@
+0 @ind00310@ INDI
+1 NAME Son /Raina/
+2 DISPLAY Son Raina
+2 GIVN Son
+2 SURN Raina
+1 POSITION 770,-280
+1 SEX M
+1 FAMC @F105@
+0 @ind00311@ INDI
+1 NAME Debra /Sheldon/
+2 DISPLAY Debra Sheldon
+2 GIVN Debra
+2 SURN Sheldon
+1 POSITION -4150,-1850
+1 SEX F
+1 FAMS @fam00122@
+0 @ind00312@ INDI
+1 NAME Cass /Misri/
+2 DISPLAY Cass Misri
+2 GIVN Cass
+2 SURN Misri
+1 POSITION -4280,-1960
+1 SEX M
+1 FAMC @fam00122@
+0 @ind00313@ INDI
+1 NAME Oz /Misri/
+2 DISPLAY Oz Misri
+2 GIVN Oz
+2 SURN Misri
+1 POSITION -4210,-1960
+1 SEX M
+1 FAMC @fam00122@
+0 @ind00314@ INDI
+1 NAME  //
+1 POSITION 2310,1430
+1 SEX F
+1 FAMS @fam00123@
+0 @ind00315@ INDI
+1 NAME  //
+1 POSITION 2290,1550
+1 SEX F
+1 FAMS @fam00124@
+0 @ind00316@ INDI
+1 NAME  //
+1 POSITION 5730,1660
+1 SEX F
+1 FAMS @fam00125@
+0 @ind00317@ INDI
+1 NAME  //
+1 POSITION 2240,1780
+1 SEX F
+1 FAMS @fam00126@
+0 @ind00318@ INDI
+1 NAME Shereen /Wakhlu/
+2 DISPLAY Shereen Wakhlu
+2 GIVN Shereen
+2 SURN Wakhlu
+1 POSITION -600,-320
+1 SEX F
+1 FAMC @F96@
+0 @ind00319@ INDI
+1 NAME Gurnit /Raina/
+2 DISPLAY Gurnit Raina
+2 GIVN Gurnit
+2 SURN Raina
+1 POSITION 470,-160
+1 SEX F
+1 FAMS @fam00127@
+0 @ind00320@ INDI
+1 NAME Son /Nadir/
+2 DISPLAY Son Nadir
+2 GIVN Son
+2 SURN Nadir
+1 POSITION 680,-310
+1 SEX M
+1 FAMC @F104@
+0 @ind00321@ INDI
+1 NAME Shayna /Kaul/
+2 DISPLAY Shayna Kaul
+2 GIVN Shayna
+2 SURN Kaul
+1 POSITION -310,-180
+1 SEX F
+1 FAMS @fam00128@
+0 @ind00322@ INDI
+1 NAME Kathrin /Bodde/
+2 DISPLAY Kathrin Bodde
+2 GIVN Kathrin
+2 SURN Bodde
+1 POSITION -3970,-1850
+1 SEX F
+1 FAMS @fam00129@
+0 @ind00323@ INDI
+1 NAME Vipin Coco /Misri-Bodde/
+2 DISPLAY Vipin Coco Misri-Bodde
+2 GIVN Vipin
+2 MIDDLE Coco
+2 SURN Misri-Bodde
+1 POSITION -4000,-1960
+1 SEX M
+1 CHILD_NO 2
+1 BIRT 
+2 DATE 1 SEP 2022
+1 FAMC @fam00129@
+0 @ind00324@ INDI
+1 NAME Sunyu Forest /Misri-Bodde/
+2 DISPLAY Sunyu Forest Misri-Bodde
+2 GIVN Sunyu
+2 MIDDLE Forest
+2 SURN Misri-Bodde
+1 POSITION -4090,-1960
+1 SEX M
+1 CHILD_NO 1
+1 BIRT 
+2 DATE 1 SEP 2022
+1 FAMC @fam00129@
+0 @ind00325@ INDI
+1 NAME Vasant /Misri/
+2 DISPLAY Vasant Misri
+2 GIVN Vasant
+2 SURN Misri
+1 POSITION -5140,-1320
+1 SEX M
+1 CHILD_NO 1
+1 FAMC @F57@
+1 FAMS @fam00130@
+0 @ind00326@ INDI
+1 NAME Mohini /Hak/
+2 DISPLAY Mohini Hak
+2 GIVN Mohini
+2 SURN Hak
+2 NICK Bentathi
+1 POSITION -4560,-1320
+1 SEX F
+1 CHILD_NO 2
+1 FAMC @F57@
+1 FAMS @fam00131@
+0 @ind00327@ INDI
+1 NAME Shakuntala /Dhar/
+2 DISPLAY Shakuntala Dhar
+2 GIVN Shakuntala
+2 SURN Dhar
+2 NICK Shaku
+1 POSITION -4210,-1320
+1 SEX F
+1 CHILD_NO 4
+1 FAMC @F57@
+1 FAMS @fam00136@
+0 @ind00328@ INDI
+1 NAME Bushan /Misri/
+2 DISPLAY Bushan Misri
+2 GIVN Bushan
+2 SURN Misri
+2 NICK Dadha
+1 POSITION -4080,-1320
+1 SEX M
+1 FAMC @F57@
+1 FAMS @fam00137@
+0 @ind00329@ INDI
+1 NAME Vinodini /Misri/
+2 DISPLAY Vinodini Misri
+2 GIVN Vinodini
+2 SURN Misri
+2 NICK Billa Aunty
+1 POSITION -5070,-1320
+1 SEX F
+1 FAMS @fam00130@
+0 @ind00330@ INDI
+1 NAME Tulip /Misri/
+2 DISPLAY Tulip Misri
+2 GIVN Tulip
+2 SURN Misri
+1 POSITION -5260,-1460
+1 SEX F
+1 DEAT Y
+1 FAMC @fam00130@
+0 @ind00331@ INDI
+1 NAME Vandhana /Misri/
+2 DISPLAY Vandhana Misri
+2 GIVN Vandhana
+2 SURN Misri
+2 NICK Bindu
+1 POSITION -5110,-1460
+1 SEX F
+1 FAMC @fam00130@
+1 FAMS @fam00139@
+0 @ind00332@ INDI
+1 NAME Varsha /Misri/
+2 DISPLAY Varsha Misri
+2 GIVN Varsha
+2 SURN Misri
+2 NICK Golu
+1 POSITION -4950,-1460
+1 SEX F
+1 FAMC @fam00130@
+1 FAMS @fam00140@
+0 @ind00333@ INDI
+1 NAME  //
+1 POSITION -4620,-1320
+1 SEX M
+1 FAMS @fam00131@
+0 @ind00334@ INDI
+1 NAME Alka /Dawodharry/
+2 DISPLAY Alka Dawodharry
+2 GIVN Alka
+2 SURN Dawodharry
+2 NICK Didi
+1 POSITION -4720,-1460
+1 SEX F
+1 FAMC @fam00131@
+1 FAMS @fam00132@
+0 @ind00335@ INDI
+1 NAME Pearl /Hak/
+2 DISPLAY Pearl Hak (Saraf)
+2 GIVN Pearl
+2 SURN Hak
+2 LAST2 Saraf
+1 POSITION -4460,-1460
+1 SEX F
+1 FAMC @fam00131@
+1 FAMS @fam00135@
+0 @ind00336@ INDI
+1 NAME  //
+1 POSITION -4800,-1460
+1 SEX M
+1 FAMS @fam00132@
+0 @ind00337@ INDI
+1 NAME Ashwin /Dawodharry/
+2 DISPLAY Ashwin Dawodharry
+2 GIVN Ashwin
+2 SURN Dawodharry
+1 POSITION -4860,-1610
+1 SEX M
+1 FAMC @fam00132@
+1 FAMS @fam00134@
+0 @ind00338@ INDI
+1 NAME Ryan /Dawodharry/
+2 DISPLAY Ryan Dawodharry
+2 GIVN Ryan
+2 SURN Dawodharry
+1 POSITION -4680,-1610
+1 SEX M
+1 FAMC @fam00132@
+1 FAMS @fam00133@
+0 @ind00339@ INDI
+1 NAME  //
+1 POSITION -4600,-1610
+1 SEX F
+1 FAMS @fam00133@
+0 @ind00340@ INDI
+1 NAME Rupinder /Dawodharry/
+2 DISPLAY Rupinder Dawodharry
+2 GIVN Rupinder
+2 SURN Dawodharry
+1 POSITION -4770,-1610
+1 SEX F
+1 FAMS @fam00134@
+0 @ind00341@ INDI
+1 NAME Daughter //
+2 DISPLAY Daughter
+2 GIVN Daughter
+1 POSITION -4870,-1750
+1 SEX F
+1 FAMC @fam00134@
+0 @ind00342@ INDI
+1 NAME a Son //
+2 DISPLAY a Son
+2 GIVN a Son
+1 POSITION -4800,-1750
+1 SEX M
+1 FAMC @fam00134@
+0 @ind00343@ INDI
+1 NAME Shirish /Saraf/
+2 DISPLAY Shirish Saraf
+2 GIVN Shirish
+2 SURN Saraf
+1 POSITION -4530,-1480
+1 SEX M
+1 FAMS @fam00135@
+0 @ind00344@ INDI
+1 NAME Arya /Saraf/
+2 DISPLAY Arya Saraf
+2 GIVN Arya
+2 SURN Saraf
+1 POSITION -4500,-1590
+1 SEX F
+1 BIRT 
+2 DATE 15 JAN 2013
+1 FAMC @fam00135@
+0 @ind00345@ INDI
+1 NAME  /Dhar/
+2 DISPLAY Dhar
+2 SURN Dhar
+1 POSITION -4280,-1320
+1 SEX M
+1 FAMS @fam00136@
+0 @ind00346@ INDI
+1 NAME Pankaj /Dhar/
+2 DISPLAY Pankaj Dhar
+2 GIVN Pankaj
+2 SURN Dhar
+1 POSITION -4320,-1460
+1 SEX M
+1 FAMC @fam00136@
+0 @ind00347@ INDI
+1 NAME Sepia /Dhar/
+2 DISPLAY Sepia Dhar
+2 GIVN Sepia
+2 SURN Dhar
+1 POSITION -4190,-1460
+1 SEX F
+1 FAMC @fam00136@
+1 FAMS @fam00141@
+0 @ind00348@ INDI
+1 NAME Shaila /Misri/
+2 DISPLAY Shaila Misri
+2 GIVN Shaila
+2 SURN Misri
+1 POSITION -4010,-1320
+1 SEX F
+1 FAMS @fam00137@
+0 @ind00349@ INDI
+1 NAME Nathaniel /Misri/
+2 DISPLAY Nathaniel Misri
+2 GIVN Nathaniel
+2 SURN Misri
+1 POSITION -4120,-1470
+1 SEX M
+1 FAMC @fam00137@
+1 FAMS @fam00138@
+0 @ind00350@ INDI
+1 NAME Nicholes /Misri/
+2 DISPLAY Nicholes Misri
+2 GIVN Nicholes
+2 SURN Misri
+1 POSITION -3970,-1460
+1 SEX M
+1 FAMC @fam00137@
+0 @ind00351@ INDI
+1 NAME Tiffany Jade /Misri/
+2 DISPLAY Tiffany Jade Misri
+2 GIVN Tiffany
+2 MIDDLE Jade
+2 SURN Misri
+1 POSITION -4040,-1460
+1 SEX F
+1 FAMS @fam00138@
+0 @ind00352@ INDI
+1 NAME  //
+1 POSITION -4090,-1580
+1 SEX F
+1 FAMC @fam00138@
+0 @ind00353@ INDI
+1 NAME Dave /Khudsen/
+2 DISPLAY Dave Khudsen
+2 GIVN Dave
+2 SURN Khudsen
+1 POSITION -5180,-1460
+1 SEX M
+1 FAMS @fam00139@
+0 @ind00354@ INDI
+1 NAME Cormac /Khudsen/
+2 DISPLAY Cormac Khudsen
+2 GIVN Cormac
+2 SURN Khudsen
+1 POSITION -5160,-1580
+1 SEX M
+1 FAMC @fam00139@
+0 @ind00355@ INDI
+1 NAME James /Richards/
+2 DISPLAY James Richards
+2 GIVN James
+2 SURN Richards
+1 POSITION -5020,-1460
+1 SEX M
+1 FAMS @fam00140@
+0 @ind00356@ INDI
+1 NAME Jackson /Richards/
+2 DISPLAY Jackson Richards
+2 GIVN Jackson
+2 SURN Richards
+1 POSITION -5030,-1610
+1 SEX M
+1 FAMC @fam00140@
+0 @ind00357@ INDI
+1 NAME Luke /Misri/
+2 DISPLAY Luke Misri
+2 GIVN Luke
+2 SURN Misri
+1 POSITION -4960,-1610
+1 SEX M
+1 FAMC @fam00140@
+0 @ind00358@ INDI
+1 NAME  //
+1 POSITION -4260,-1460
+1 SEX M
+1 FAMS @fam00141@
+0 @ind00359@ INDI
+1 NAME  //
+1 POSITION -4230,-1580
+1 SEX M
+1 FAMC @fam00141@
+0 @ind00360@ INDI
+1 NAME  //
+1 POSITION 5800,1660
+1 SEX F
+1 FAMS @fam00142@
+0 @ind00361@ INDI
+1 NAME Uly /Kashkari/
+2 DISPLAY Uly Kashkari
+2 GIVN Uly
+2 SURN Kashkari
+1 POSITION -3740,-310
+1 SEX F
+1 FAMC @F18@
+0 @ind00362@ INDI
+1 NAME Tecumseh /Kashkari/
+2 DISPLAY Tecumseh Kashkari
+2 GIVN Tecumseh
+2 SURN Kashkari
+1 POSITION -3660,-310
+1 SEX M
+1 FAMC @F18@
+0 @ind00363@ INDI
+1 NAME Dhananjay /Kumar/
+2 DISPLAY Dhananjay Kumar
+2 GIVN Dhananjay
+2 SURN Kumar
+1 POSITION -5470,-130
+1 SEX M
+1 FAMS @fam00143@
+0 @ind00364@ INDI
+1 NAME  //
+1 POSITION -5540,-130
+1 SEX F
+1 FAMS @fam00144@
+0 @ind00365@ INDI
+1 NAME Megha /Kaul/
+2 DISPLAY Megha Kaul
+2 GIVN Megha
+2 SURN Kaul
+1 POSITION -2510,-130
+1 SEX F
+1 FAMS @fam00145@
+0 @ind00366@ INDI
+1 NAME Mamta /Sadhu/
+2 DISPLAY Mamta Sadhu
+2 GIVN Mamta
+2 SURN Sadhu
+2 NICK Merlin Holmes
+1 POSITION -3930,-590
+1 SEX F
+1 FAMC @F17@
+1 FAMS @fam00146@
+0 @ind00367@ INDI
+1 NAME Pankaj /Sadhu/
+2 DISPLAY Pankaj Sadhu
+2 GIVN Pankaj
+2 SURN Sadhu
+1 POSITION -3860,-590
+1 SEX M
+1 DEAT Y
+1 FAMC @F17@
+0 @ind00368@ INDI
+1 NAME  //
+1 POSITION -4000,-590
+1 SEX M
+1 FAMS @fam00146@
+0 @ind00369@ INDI
+1 NAME  /Dhar/
+2 DISPLAY Dhar
+2 SURN Dhar
+1 POSITION -3400,-1450
+1 SEX M
+1 FAMC @F58@
+1 FAMS @fam00147@
+0 @ind00370@ INDI
+1 NAME  /Dhar/
+2 DISPLAY Dhar
+2 SURN Dhar
+1 POSITION -3340,-1450
+1 SEX F
+1 FAMS @fam00147@
+0 @ind00371@ INDI
+1 NAME Ishet /Dhar/
+2 DISPLAY Ishet Dhar
+2 GIVN Ishet
+2 SURN Dhar
+1 POSITION -3470,-1600
+1 SEX M
+1 FAMC @fam00147@
+1 FAMS @fam00148@
+0 @ind00372@ INDI
+1 NAME Shivani /Dhar/
+2 DISPLAY Shivani Dhar (Raina)
+2 GIVN Shivani
+2 SURN Dhar
+2 LAST2 Raina
+1 POSITION -3410,-1590
+1 SEX F
+1 FAMS @fam00148@
+0 @ind00373@ INDI
+1 NAME Aryav /Dhar/
+2 DISPLAY Aryav Dhar
+2 GIVN Aryav
+2 SURN Dhar
+1 POSITION -3450,-1710
+1 SEX M
+1 FAMC @fam00148@
+0 @ind00374@ INDI
+1 NAME Anshu /Raina/
+2 DISPLAY Anshu Raina (Dhar)
+2 GIVN Anshu
+2 SURN Raina
+2 LAST2 Dhar
+2 NICK Pamposh
+1 POSITION -3270,-1590
+1 SEX F
+1 FAMC @fam00147@
+1 FAMS @fam00149@
+0 @ind00375@ INDI
+1 NAME Parveen /Raina/
+2 DISPLAY Parveen Raina
+2 GIVN Parveen
+2 SURN Raina
+1 POSITION -3340,-1610
+1 SEX M
+1 FAMS @fam00149@
+0 @ind00376@ INDI
+1 NAME Parchi /Raina/
+2 DISPLAY Parchi Raina
+2 GIVN Parchi
+2 SURN Raina
+1 POSITION -3310,-1720
+1 SEX F
+1 FAMC @fam00149@
+0 @ind00377@ INDI
+1 NAME Gasha /Hashia/
+2 DISPLAY Gasha Hashia
+2 GIVN Gasha
+2 SURN Hashia
+1 POSITION -2540,520
+1 SEX M
+1 CHILD_NO 2
+1 DEAT Y
+1 FAMC @F88@
+1 FAMS @fam00150@
+0 @ind00378@ INDI
+1 NAME Daughter nr Prof Gocal Nath //
+2 DISPLAY Daughter nr Prof Gocal Nath (Hashia)
+2 GIVN Daughter nr Prof Gocal Nath
+2 LAST2 Hashia
+1 POSITION -2190,520
+1 SEX F
+1 CHILD_NO 3
+1 DEAT Y
+1 FAMC @F88@
+1 FAMS @fam00151@
+0 @ind00379@ INDI
+1 NAME Makhan Lal /Hashia/
+2 DISPLAY Makhan Lal Hashia
+2 GIVN Makhan
+2 MIDDLE Lal
+2 SURN Hashia
+2 NICK Papa Mamaa
+1 POSITION -2060,520
+1 SEX M
+1 CHILD_NO 4
+1 DEAT Y
+1 FAMC @F88@
+1 FAMS @fam00152@
+0 @ind00380@ INDI
+1 NAME KL /Hashia/
+2 DISPLAY KL Hashia
+2 GIVN KL
+2 SURN Hashia
+2 NICK Boba Mamaa
+1 POSITION -1790,520
+1 SEX M
+1 CHILD_NO 5
+1 DEAT Y
+1 FAMC @F88@
+1 FAMS @fam00153@
+0 @ind00381@ INDI
+1 NAME Bhaiji Mamaa /Hashia/
+2 DISPLAY Bhaiji Mamaa Hashia
+2 GIVN Bhaiji Mamaa
+2 SURN Hashia
+2 NICK Bhaiji Mamaa
+1 POSITION -1540,520
+1 SEX M
+1 CHILD_NO 6
+1 DEAT Y
+1 FAMC @F88@
+1 FAMS @fam00154@
+0 @ind00382@ INDI
+1 NAME Ami /Hashia/
+2 DISPLAY Ami Hashia
+2 GIVN Ami
+2 SURN Hashia
+1 POSITION -2470,520
+1 SEX F
+1 FAMS @fam00150@
+0 @ind00383@ INDI
+1 NAME Rajini /Dhar/
+2 DISPLAY Rajini Dhar
+2 GIVN Rajini
+2 SURN Dhar
+2 NICK Gudi
+1 POSITION -2670,380
+1 SEX F
+1 FAMC @fam00150@
+0 @ind00384@ INDI
+1 NAME Ravinder /Hashia/
+2 DISPLAY Ravinder Hashia
+2 GIVN Ravinder
+2 SURN Hashia
+2 NICK Bitta
+1 POSITION -2550,380
+1 SEX M
+1 FAMC @fam00150@
+1 FAMS @fam00156@
+0 @ind00385@ INDI
+1 NAME Renu /Tiku/
+2 DISPLAY Renu Tiku (Hashia)
+2 GIVN Renu
+2 SURN Tiku
+2 LAST2 Hashia
+2 NICK Pitchi
+1 POSITION -2340,380
+1 SEX F
+1 FAMC @fam00150@
+1 FAMS @fam00155@
+0 @ind00386@ INDI
+1 NAME  //
+1 POSITION -2270,510
+1 SEX M
+1 FAMS @fam00151@
+0 @ind00387@ INDI
+1 NAME  //
+1 POSITION -2270,360
+1 SEX M
+1 FAMC @fam00151@
+0 @ind00388@ INDI
+1 NAME Artist //
+2 DISPLAY Artist
+2 GIVN Artist
+1 POSITION -2200,360
+1 SEX M
+1 FAMC @fam00151@
+0 @ind00389@ INDI
+1 NAME Shanta /Hashia/
+2 DISPLAY Shanta Hashia
+2 GIVN Shanta
+2 SURN Hashia
+1 POSITION -1990,510
+1 SEX F
+1 FAMS @fam00152@
+0 @ind00390@ INDI
+1 NAME Satish /Hashia/
+2 DISPLAY Satish Hashia
+2 GIVN Satish
+2 SURN Hashia
+2 NICK Gitoo
+1 POSITION -2100,360
+1 SEX M
+1 FAMC @fam00152@
+1 FAMS @fam00161@
+0 @ind00391@ INDI
+1 NAME Sushil /Hashia/
+2 DISPLAY Sushil Hashia
+2 GIVN Sushil
+2 SURN Hashia
+2 NICK Pintoo
+1 POSITION -1970,360
+1 SEX M
+1 FAMC @fam00152@
+1 FAMS @fam00158@
+0 @ind00392@ INDI
+1 NAME  //
+1 POSITION -1720,520
+1 SEX F
+1 FAMS @fam00153@
+0 @ind00393@ INDI
+1 NAME Suneel /Hashia/
+2 DISPLAY Suneel Hashia
+2 GIVN Suneel
+2 SURN Hashia
+2 NICK Pupoo
+1 POSITION -1830,380
+1 SEX M
+1 FAMC @fam00153@
+1 FAMS @fam00159@
+0 @ind00394@ INDI
+1 NAME Ashwani /Hashia/
+2 DISPLAY Ashwani Hashia
+2 GIVN Ashwani
+2 SURN Hashia
+2 NICK Lovlee
+1 POSITION -1680,380
+1 SEX M
+1 FAMC @fam00153@
+1 FAMS @fam00160@
+0 @ind00395@ INDI
+1 NAME  //
+1 POSITION -1470,510
+1 SEX F
+1 FAMS @fam00154@
+0 @ind00396@ INDI
+1 NAME Rajeev /Hashia/
+2 DISPLAY Rajeev Hashia
+2 GIVN Rajeev
+2 SURN Hashia
+2 NICK Raju
+1 POSITION -1540,360
+1 SEX M
+1 FAMC @fam00154@
+0 @ind00397@ INDI
+1 NAME Ruby /Hashia/
+2 DISPLAY Ruby Hashia
+2 GIVN Ruby
+2 SURN Hashia
+2 NICK Ruby
+1 POSITION -1470,360
+1 SEX F
+1 FAMC @fam00154@
+0 @ind00398@ INDI
+1 NAME Sidharth /Tiku/
+2 DISPLAY Sidharth Tiku
+2 GIVN Sidharth
+2 SURN Tiku
+1 POSITION -2410,360
+1 SEX M
+1 FAMS @fam00155@
+0 @ind00399@ INDI
+1 NAME Nandit /Tiku/
+2 DISPLAY Nandit Tiku
+2 GIVN Nandit
+2 SURN Tiku
+1 POSITION -2410,220
+1 SEX M
+1 FAMC @fam00155@
+0 @ind00400@ INDI
+1 NAME Nikkhil /Tiku/
+2 DISPLAY Nikkhil Tiku
+2 GIVN Nikkhil
+2 SURN Tiku
+1 POSITION -2340,220
+1 SEX M
+1 FAMC @fam00155@
+0 @ind00401@ INDI
+1 NAME Asha /Hashia/
+2 DISPLAY Asha Hashia
+2 GIVN Asha
+2 SURN Hashia
+1 POSITION -2480,380
+1 SEX F
+1 FAMS @fam00156@
+0 @ind00402@ INDI
+1 NAME Era /Bhan/
+2 DISPLAY Era Bhan (Hashia)
+2 GIVN Era
+2 SURN Bhan
+2 LAST2 Hashia
+1 POSITION -2530,260
+1 SEX F
+1 FAMC @fam00156@
+1 FAMS @fam00157@
+0 @ind00403@ INDI
+1 NAME Neel /Bhan/
+2 DISPLAY Neel Bhan
+2 GIVN Neel
+2 SURN Bhan
+1 POSITION -2600,250
+1 SEX M
+1 FAMS @fam00157@
+0 @ind00404@ INDI
+1 NAME  //
+1 POSITION -1900,360
+1 SEX F
+1 FAMS @fam00158@
+0 @ind00405@ INDI
+1 NAME Ankit /Hashia/
+2 DISPLAY Ankit Hashia
+2 GIVN Ankit
+2 SURN Hashia
+1 POSITION -1940,250
+1 SEX M
+1 FAMC @fam00158@
+0 @ind00406@ INDI
+1 NAME Sarojini /Hashia/
+2 DISPLAY Sarojini Hashia
+2 GIVN Sarojini
+2 SURN Hashia
+1 POSITION -1760,380
+1 SEX F
+1 FAMS @fam00159@
+0 @ind00407@ INDI
+1 NAME Renu /Hashia/
+2 DISPLAY Renu Hashia
+2 GIVN Renu
+2 SURN Hashia
+1 POSITION -1610,380
+1 SEX F
+1 FAMS @fam00160@
+0 @ind00408@ INDI
+1 NAME Neha /Kak/
+2 DISPLAY Neha Kak (Hashia)
+2 GIVN Neha
+2 SURN Kak
+2 LAST2 Hashia
+1 POSITION -1690,230
+1 SEX F
+1 FAMC @fam00160@
+0 @ind00409@ INDI
+1 NAME Anushka  Ashwani /Hashia/
+2 DISPLAY Anushka  Ashwani Hashia
+2 GIVN Anushka 
+2 MIDDLE Ashwani
+2 SURN Hashia
+1 POSITION -1620,230
+1 SEX F
+1 FAMC @fam00160@
+0 @ind00410@ INDI
+1 NAME  //
+1 POSITION -2030,360
+1 SEX F
+1 FAMS @fam00161@
+0 @F1@ FAM
+1 POSITION -4220,160
+2 TOP 
+3 LEFT -4250,160
+3 RIGHT -2740,160
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I5@
+1 WIFE @I2@
+1 CHIL @I3@
+1 CHIL @I4@
+1 CHIL @I6@
+1 CHIL @I10@
+0 @F2@ FAM
+1 POSITION -2780,440
+2 TOP 
+3 LEFT -2810,440
+3 RIGHT -2740,440
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I5@
+1 WIFE @I2@
+0 @F3@ FAM
+1 POSITION -4110,-800
+2 TOP 
+3 LEFT -4140,-800
+3 RIGHT -4070,-800
+2 BOTTOM 
+3 LEFT -4200,-830
+3 RIGHT -4020,-830
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I3@
+1 WIFE @I7@
+1 CHIL @I13@
+1 CHIL @I14@
+0 @F4@ FAM
+1 POSITION -3170,50
+2 TOP 
+3 LEFT -3200,50
+3 RIGHT -3130,50
+2 BOTTOM 
+3 LEFT -3240,20
+3 RIGHT -3100,20
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I8@
+1 WIFE @I4@
+1 CHIL @ind00303@
+1 CHIL @ind00304@
+0 @F5@ FAM
+1 POSITION -4260,-1100
+2 TOP 
+3 LEFT -4290,-1100
+3 RIGHT -3030,-1100
+2 BOTTOM 
+3 LEFT -5320,-1130
+3 RIGHT -3200,-1130
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I9@
+1 WIFE @I6@
+1 CHIL @I21@
+1 CHIL @I20@
+0 @F6@ FAM
+1 POSITION -2810,40
+2 TOP 
+3 LEFT -2840,40
+3 RIGHT -2770,40
+2 BOTTOM 
+3 LEFT -2880,10
+3 RIGHT -2740,10
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I11@
+1 WIFE @I10@
+1 CHIL @I27@
+1 CHIL @I28@
+0 @F7@ FAM
+1 POSITION -3850,-370
+2 TOP 
+3 LEFT -3880,-370
+3 RIGHT -3810,-370
+2 BOTTOM 
+3 LEFT -4070,-400
+3 RIGHT -3610,-400
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I35@
+1 WIFE @I12@
+1 CHIL @I7@
+1 CHIL @I42@
+1 CHIL @I43@
+0 @F8@ FAM
+1 POSITION -4170,-940
+2 TOP 
+3 LEFT -4200,-940
+3 RIGHT -4130,-940
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I13@
+1 WIFE @I15@
+0 @F9@ FAM
+1 POSITION -3990,-940
+2 TOP 
+3 LEFT -4020,-940
+3 RIGHT -3950,-940
+2 BOTTOM 
+3 LEFT -4060,-970
+3 RIGHT -3920,-970
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I14@
+1 WIFE @I16@
+1 CHIL @I17@
+1 CHIL @I18@
+1 CHIL @I19@
+0 @F10@ FAM
+1 POSITION -3170,-1240
+2 TOP 
+3 LEFT -3200,-1240
+3 RIGHT -3130,-1240
+2 BOTTOM 
+3 LEFT -3200,-1270
+3 RIGHT -3130,-1270
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I20@
+1 WIFE @I34@
+1 CHIL @I22@
+1 CHIL @I23@
+0 @F11@ FAM
+1 POSITION -5290,-2040
+2 TOP 
+3 LEFT -5320,-2040
+3 RIGHT -4370,-2040
+2 BOTTOM 
+3 LEFT -5320,-2070
+3 RIGHT -5260,-2070
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I21@
+1 WIFE @I24@
+1 CHIL @I25@
+1 CHIL @I26@
+0 @F12@ FAM
+1 POSITION -2850,-100
+2 TOP 
+3 LEFT -2880,-100
+3 RIGHT -2810,-100
+2 BOTTOM 
+3 LEFT -2890,-130
+3 RIGHT -2820,-130
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I27@
+1 WIFE @I29@
+1 CHIL @I30@
+1 CHIL @ind00301@
+0 @F13@ FAM
+1 POSITION -2710,-110
+2 TOP 
+3 LEFT -2740,-110
+3 RIGHT -2670,-110
+2 BOTTOM 
+3 LEFT -2740,-140
+3 RIGHT -2670,-140
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I28@
+1 WIFE @I31@
+1 CHIL @I32@
+1 CHIL @I33@
+0 @F14@ FAM
+1 POSITION -3700,50
+2 TOP 
+3 LEFT -3730,50
+3 RIGHT -3670,50
+2 BOTTOM 
+3 LEFT -3810,20
+3 RIGHT -3590,20
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I36@
+1 CHIL @I12@
+1 CHIL @I38@
+0 @F15@ FAM
+1 POSITION -3560,-90
+2 TOP 
+3 LEFT -3590,-90
+3 RIGHT -3510,-90
+2 BOTTOM 
+3 LEFT -3730,-120
+3 RIGHT -3380,-120
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I38@
+1 WIFE @I39@
+1 CHIL @I40@
+1 CHIL @I41@
+0 @F16@ FAM
+1 POSITION -3650,-520
+2 TOP 
+3 LEFT -3680,-520
+3 RIGHT -3610,-520
+2 BOTTOM 
+3 LEFT -3720,-550
+3 RIGHT -3580,-550
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I45@
+1 WIFE @I43@
+1 CHIL @I47@
+1 CHIL @I48@
+1 CHIL @I49@
+0 @F17@ FAM
+1 POSITION -3900,-520
+2 TOP 
+3 LEFT -3930,-520
+3 RIGHT -3860,-520
+2 BOTTOM 
+3 LEFT -3930,-550
+3 RIGHT -3860,-550
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I42@
+1 WIFE @I46@
+1 CHIL @ind00366@
+1 CHIL @ind00367@
+0 @F18@ FAM
+1 POSITION -3700,-230
+2 TOP 
+3 LEFT -3730,-230
+3 RIGHT -3650,-230
+2 BOTTOM 
+3 LEFT -3740,-260
+3 RIGHT -3660,-260
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I40@
+1 WIFE @I50@
+1 CHIL @ind00361@
+1 CHIL @ind00362@
+0 @F19@ FAM
+1 POSITION -3760,-660
+2 TOP 
+3 LEFT -3790,-660
+3 RIGHT -3720,-660
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I51@
+1 WIFE @I47@
+0 @F20@ FAM
+1 POSITION -3550,-660
+2 TOP 
+3 LEFT -3580,-660
+3 RIGHT -3520,-660
+2 BOTTOM 
+3 LEFT -3580,-690
+3 RIGHT -3520,-690
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I49@
+1 WIFE @I52@
+1 CHIL @I53@
+1 CHIL @I54@
+0 @F22@ FAM
+1 POSITION -5480,180
+2 TOP 
+3 LEFT -5510,180
+3 RIGHT -1810,180
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I56@
+1 WIFE @I57@
+1 CHIL @I63@
+1 CHIL @I9@
+1 CHIL @I64@
+1 CHIL @I65@
+1 CHIL @I66@
+0 @F23@ FAM
+1 POSITION -1780,180
+2 TOP 
+3 LEFT -1810,180
+3 RIGHT 1260,180
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I56@
+1 WIFE @I58@
+1 CHIL @I59@
+1 CHIL @I60@
+1 CHIL @I61@
+1 CHIL @I62@
+0 @F24@ FAM
+1 POSITION -1940,70
+2 TOP 
+3 LEFT -1970,70
+3 RIGHT -1900,70
+2 BOTTOM 
+3 LEFT -2010,40
+3 RIGHT -1870,40
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I66@
+1 WIFE @I67@
+1 CHIL @I68@
+1 CHIL @I69@
+0 @F25@ FAM
+1 POSITION -5460,60
+2 TOP 
+3 LEFT -5490,60
+3 RIGHT -5420,60
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I63@
+1 WIFE @I232@
+1 CHIL @I70@
+0 @F26@ FAM
+1 POSITION -2480,70
+2 TOP 
+3 LEFT -2510,70
+3 RIGHT -2450,70
+2 BOTTOM 
+3 LEFT -2530,40
+3 RIGHT -2440,40
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I234@
+1 WIFE @I64@
+1 CHIL @I71@
+1 CHIL @I72@
+0 @F27@ FAM
+1 POSITION -2150,70
+2 TOP 
+3 LEFT -2180,70
+3 RIGHT -2100,70
+2 BOTTOM 
+3 LEFT -2220,40
+3 RIGHT -2080,40
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I65@
+1 WIFE @I297@
+1 CHIL @I73@
+1 CHIL @I74@
+0 @F28@ FAM
+1 POSITION -1590,60
+2 TOP 
+3 LEFT -1620,60
+3 RIGHT -1550,60
+2 BOTTOM 
+3 LEFT -1760,30
+3 RIGHT -1410,30
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I59@
+1 WIFE @I75@
+1 CHIL @I77@
+1 CHIL @I78@
+1 CHIL @I79@
+0 @F29@ FAM
+1 POSITION -1980,-70
+2 TOP 
+3 LEFT -2010,-70
+3 RIGHT -1940,-70
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I68@
+1 WIFE @I76@
+0 @F30@ FAM
+1 POSITION -1550,-90
+2 TOP 
+3 LEFT -1580,-90
+3 RIGHT -1500,-90
+2 BOTTOM 
+3 LEFT -1620,-120
+3 RIGHT -1480,-120
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I78@
+1 WIFE @I98@
+1 CHIL @I80@
+1 CHIL @I81@
+0 @F31@ FAM
+1 POSITION -610,60
+2 TOP 
+3 LEFT -640,60
+3 RIGHT -550,60
+2 BOTTOM 
+3 LEFT -1260,30
+3 RIGHT 40,30
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I82@
+1 WIFE @I60@
+1 CHIL @I83@
+1 CHIL @I84@
+1 CHIL @I85@
+1 CHIL @I86@
+1 CHIL @I87@
+1 CHIL @I88@
+0 @F32@ FAM
+1 POSITION -680,-100
+2 TOP 
+3 LEFT -710,-100
+3 RIGHT -620,-100
+2 BOTTOM 
+3 LEFT -760,-130
+3 RIGHT -590,-130
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I85@
+1 WIFE @I251@
+1 CHIL @I90@
+1 CHIL @I91@
+0 @F33@ FAM
+1 POSITION -420,-100
+2 TOP 
+3 LEFT -450,-100
+3 RIGHT -370,-100
+2 BOTTOM 
+3 LEFT -450,-130
+3 RIGHT -380,-130
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I99@
+1 WIFE @I86@
+1 CHIL @I92@
+1 CHIL @I93@
+0 @F34@ FAM
+1 POSITION 290,60
+2 TOP 
+3 LEFT 260,60
+3 RIGHT 330,60
+2 BOTTOM 
+3 LEFT 130,30
+3 RIGHT 450,30
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I94@
+1 WIFE @I61@
+1 CHIL @I95@
+1 CHIL @I96@
+1 CHIL @I97@
+0 @F35@ FAM
+1 POSITION 1260,60
+2 TOP 
+3 LEFT 1230,60
+3 RIGHT 1300,60
+2 BOTTOM 
+3 LEFT 690,30
+3 RIGHT 1830,30
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I62@
+1 WIFE @I100@
+1 CHIL @I101@
+1 CHIL @I102@
+1 CHIL @I103@
+1 CHIL @I104@
+1 CHIL @I105@
+0 @F36@ FAM
+1 POSITION 720,-90
+2 TOP 
+3 LEFT 690,-90
+3 RIGHT 760,-90
+2 BOTTOM 
+3 LEFT 680,-120
+3 RIGHT 750,-120
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I101@
+1 WIFE @I106@
+1 CHIL @I109@
+1 CHIL @I271@
+0 @F37@ FAM
+1 POSITION 1650,-90
+2 TOP 
+3 LEFT 1620,-90
+3 RIGHT 1680,-90
+2 BOTTOM 
+3 LEFT 1620,-120
+3 RIGHT 1680,-120
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I104@
+1 WIFE @I107@
+1 CHIL @I110@
+1 CHIL @I111@
+0 @F38@ FAM
+1 POSITION 1780,-90
+2 TOP 
+3 LEFT 1750,-90
+3 RIGHT 1830,-90
+2 BOTTOM 
+3 LEFT 1750,-120
+3 RIGHT 1820,-120
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I108@
+1 WIFE @I105@
+1 CHIL @I112@
+1 CHIL @I113@
+0 @F39@ FAM
+1 POSITION -5500,-50
+2 TOP 
+3 LEFT -5530,-50
+3 RIGHT -5460,-50
+2 BOTTOM 
+3 LEFT -5610,-80
+3 RIGHT -5390,-80
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I114@
+1 WIFE @I70@
+1 CHIL @I230@
+1 CHIL @I231@
+0 @F40@ FAM
+1 POSITION -5510,710
+2 TOP 
+3 LEFT -5540,710
+3 RIGHT -5470,710
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I115@
+1 WIFE @I116@
+1 CHIL @I56@
+0 @F41@ FAM
+1 POSITION -780,860
+2 TOP 
+3 LEFT -810,860
+3 RIGHT -740,860
+2 BOTTOM 
+3 LEFT -5540,830
+3 RIGHT 3990,830
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I117@
+1 WIFE @I174@
+1 CHIL @I115@
+1 CHIL @I118@
+1 CHIL @I167@
+1 CHIL @I168@
+0 @F42@ FAM
+1 POSITION 2760,710
+2 TOP 
+3 LEFT 2730,710
+3 RIGHT 2810,710
+2 BOTTOM 
+3 LEFT 1910,680
+3 RIGHT 3620,680
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I118@
+1 WIFE @I119@
+1 CHIL @I124@
+1 CHIL @I120@
+1 CHIL @I122@
+1 CHIL @I123@
+1 CHIL @I125@
+1 CHIL @I126@
+1 CHIL @I127@
+1 CHIL @I202@
+1 CHIL @I203@
+0 @F43@ FAM
+1 POSITION 2250,550
+2 TOP 
+3 LEFT 2220,550
+3 RIGHT 2300,550
+2 BOTTOM 
+3 LEFT 2000,520
+3 RIGHT 2490,520
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I120@
+1 WIFE @I121@
+1 CHIL @I204@
+1 CHIL @I205@
+1 CHIL @I206@
+1 CHIL @I207@
+0 @F44@ FAM
+1 POSITION -800,990
+2 TOP 
+3 LEFT -830,990
+3 RIGHT 5200,990
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I128@
+1 WIFE @I129@
+1 CHIL @I117@
+1 CHIL @I175@
+1 CHIL @I176@
+1 CHIL @I177@
+1 CHIL @I178@
+0 @F46@ FAM
+1 POSITION 2320,1150
+2 TOP 
+3 LEFT 2290,1150
+3 RIGHT 2350,1150
+2 BOTTOM 
+3 LEFT -830,1120
+3 RIGHT 5470,1120
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I131@
+1 CHIL @I128@
+1 CHIL @I132@
+0 @F47@ FAM
+1 POSITION 2300,1260
+2 TOP 
+3 LEFT 2270,1260
+3 RIGHT 2330,1260
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I134@
+1 CHIL @I131@
+0 @F52@ FAM
+1 POSITION 5500,1000
+2 TOP 
+3 LEFT 5470,1000
+3 RIGHT 5540,1000
+2 BOTTOM 
+3 LEFT 5370,970
+3 RIGHT 5630,970
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I132@
+1 WIFE @I166@
+1 CHIL @I139@
+1 CHIL @I140@
+0 @F53@ FAM
+1 POSITION 5400,850
+2 TOP 
+3 LEFT 5370,850
+3 RIGHT 5430,850
+2 BOTTOM 
+3 LEFT 5340,820
+3 RIGHT 5460,820
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I139@
+1 CHIL @I141@
+1 CHIL @I143@
+0 @F54@ FAM
+1 POSITION 5660,850
+2 TOP 
+3 LEFT 5630,850
+3 RIGHT 5690,850
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I140@
+1 CHIL @I144@
+0 @F55@ FAM
+1 POSITION 5490,700
+2 TOP 
+3 LEFT 5460,700
+3 RIGHT 5520,700
+2 BOTTOM 
+3 LEFT 5410,670
+3 RIGHT 5560,670
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I143@
+1 CHIL @I145@
+1 CHIL @I146@
+1 CHIL @I147@
+0 @F56@ FAM
+1 POSITION -4360,-1800
+2 TOP 
+3 LEFT -4390,-1800
+3 RIGHT -3900,-1800
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I148@
+1 WIFE @I149@
+1 CHIL @I24@
+1 CHIL @I150@
+0 @F57@ FAM
+1 POSITION -4620,-1240
+2 TOP 
+3 LEFT -4650,-1240
+3 RIGHT -4570,-1240
+2 BOTTOM 
+3 LEFT -5140,-1270
+3 RIGHT -4080,-1270
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I151@
+1 WIFE @I152@
+1 CHIL @ind00325@
+1 CHIL @ind00326@
+1 CHIL @I148@
+1 CHIL @ind00327@
+1 CHIL @ind00328@
+0 @F58@ FAM
+1 POSITION -3660,-1370
+2 TOP 
+3 LEFT -3690,-1370
+3 RIGHT -3620,-1370
+2 BOTTOM 
+3 LEFT -3900,-1400
+3 RIGHT -3400,-1400
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I153@
+1 WIFE @I154@
+1 CHIL @I149@
+1 CHIL @I155@
+1 CHIL @I156@
+1 CHIL @ind00369@
+0 @F59@ FAM
+1 POSITION -3720,-1510
+2 TOP 
+3 LEFT -3750,-1510
+3 RIGHT -3680,-1510
+2 BOTTOM 
+3 LEFT -3750,-1540
+3 RIGHT -3680,-1540
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I155@
+1 WIFE @I157@
+1 CHIL @I159@
+1 CHIL @I160@
+0 @F60@ FAM
+1 POSITION -3580,-1510
+2 TOP 
+3 LEFT -3610,-1510
+3 RIGHT -3540,-1510
+2 BOTTOM 
+3 LEFT -3610,-1540
+3 RIGHT -3540,-1540
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I156@
+1 WIFE @I158@
+1 CHIL @I161@
+1 CHIL @I162@
+0 @F61@ FAM
+1 POSITION -3790,-1660
+2 TOP 
+3 LEFT -3820,-1660
+3 RIGHT -3750,-1660
+2 BOTTOM 
+3 LEFT -3830,-1690
+3 RIGHT -3760,-1690
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I163@
+1 WIFE @I159@
+1 CHIL @I164@
+1 CHIL @I165@
+0 @F62@ FAM
+1 POSITION 3940,720
+2 TOP 
+3 LEFT 3910,720
+3 RIGHT 3990,720
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I169@
+1 WIFE @I168@
+0 @F63@ FAM
+1 POSITION 3770,710
+2 TOP 
+3 LEFT 3740,710
+3 RIGHT 3810,710
+2 BOTTOM 
+3 LEFT 3700,680
+3 RIGHT 3840,680
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I170@
+1 WIFE @I167@
+1 CHIL @I171@
+1 CHIL @I172@
+1 CHIL @I173@
+0 @F64@ FAM
+1 POSITION 5230,990
+2 TOP 
+3 LEFT 5200,990
+3 RIGHT 5270,990
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I128@
+1 WIFE @I130@
+0 @F65@ FAM
+1 POSITION 4210,880
+2 TOP 
+3 LEFT 4180,880
+3 RIGHT 4250,880
+2 BOTTOM 
+3 LEFT 4140,850
+3 RIGHT 4280,850
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I179@
+1 WIFE @I175@
+1 CHIL @I180@
+1 CHIL @I181@
+0 @F66@ FAM
+1 POSITION 4090,740
+2 TOP 
+3 LEFT 4060,740
+3 RIGHT 4140,740
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I182@
+1 WIFE @I180@
+1 CHIL @I183@
+0 @F67@ FAM
+1 POSITION 4250,740
+2 TOP 
+3 LEFT 4220,740
+3 RIGHT 4280,740
+2 BOTTOM 
+3 LEFT 4210,710
+3 RIGHT 4290,710
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 WIFE @I181@
+1 CHIL @I184@
+1 CHIL @I185@
+0 @F68@ FAM
+1 POSITION 4460,870
+2 TOP 
+3 LEFT 4430,870
+3 RIGHT 4510,870
+2 BOTTOM 
+3 LEFT 4370,840
+3 RIGHT 4560,840
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I186@
+1 WIFE @I176@
+1 CHIL @I187@
+1 CHIL @I188@
+0 @F69@ FAM
+1 POSITION 4400,730
+2 TOP 
+3 LEFT 4370,730
+3 RIGHT 4430,730
+2 BOTTOM 
+3 LEFT 4360,700
+3 RIGHT 4450,700
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I187@
+1 CHIL @I189@
+1 CHIL @I190@
+0 @F70@ FAM
+1 POSITION 4530,730
+2 TOP 
+3 LEFT 4500,730
+3 RIGHT 4560,730
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 WIFE @I188@
+1 CHIL @I191@
+0 @F71@ FAM
+1 POSITION 4660,870
+2 TOP 
+3 LEFT 4630,870
+3 RIGHT 4710,870
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I177@
+1 WIFE @I192@
+0 @F72@ FAM
+1 POSITION 4740,870
+2 TOP 
+3 LEFT 4710,870
+3 RIGHT 4950,870
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I177@
+1 WIFE @I193@
+1 CHIL @I194@
+1 CHIL @I195@
+0 @F73@ FAM
+1 POSITION 4870,760
+2 TOP 
+3 LEFT 4840,760
+3 RIGHT 4910,760
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I196@
+1 WIFE @I195@
+0 @F74@ FAM
+1 POSITION 5110,860
+2 TOP 
+3 LEFT 5080,860
+3 RIGHT 5150,860
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I197@
+1 WIFE @I178@
+1 CHIL @I198@
+0 @F75@ FAM
+1 POSITION 5050,750
+2 TOP 
+3 LEFT 5020,750
+3 RIGHT 5100,750
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I199@
+1 WIFE @I198@
+1 CHIL @I200@
+0 @F76@ FAM
+1 POSITION 5080,640
+2 TOP 
+3 LEFT 5050,640
+3 RIGHT 5110,640
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I200@
+1 CHIL @I201@
+0 @F77@ FAM
+1 POSITION 2030,400
+2 TOP 
+3 LEFT 2000,400
+3 RIGHT 2070,400
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I204@
+1 WIFE @I208@
+0 @F78@ FAM
+1 POSITION 2170,410
+2 TOP 
+3 LEFT 2140,410
+3 RIGHT 2210,410
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I209@
+1 WIFE @I205@
+0 @F79@ FAM
+1 POSITION 2320,400
+2 TOP 
+3 LEFT 2290,400
+3 RIGHT 2350,400
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I210@
+1 WIFE @I206@
+0 @F80@ FAM
+1 POSITION 2450,410
+2 TOP 
+3 LEFT 2420,410
+3 RIGHT 2490,410
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I211@
+1 WIFE @I207@
+0 @F81@ FAM
+1 POSITION 2590,560
+2 TOP 
+3 LEFT 2560,560
+3 RIGHT 2630,560
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I212@
+1 WIFE @I122@
+1 CHIL @I213@
+0 @F82@ FAM
+1 POSITION 2780,560
+2 TOP 
+3 LEFT 2750,560
+3 RIGHT 2820,560
+2 BOTTOM 
+3 LEFT 2710,530
+3 RIGHT 2840,530
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I214@
+1 WIFE @I123@
+1 CHIL @I215@
+1 CHIL @I216@
+1 CHIL @I217@
+0 @F83@ FAM
+1 POSITION 3290,550
+2 TOP 
+3 LEFT 3260,550
+3 RIGHT 3330,550
+2 BOTTOM 
+3 LEFT 3260,520
+3 RIGHT 3330,520
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I218@
+1 WIFE @I127@
+1 CHIL @I219@
+1 CHIL @I220@
+0 @F84@ FAM
+1 POSITION 3570,570
+2 TOP 
+3 LEFT 3540,570
+3 RIGHT 3620,570
+2 BOTTOM 
+3 LEFT 3540,540
+3 RIGHT 3610,540
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I221@
+1 WIFE @I203@
+1 CHIL @I222@
+1 CHIL @I224@
+0 @F85@ FAM
+1 POSITION 3030,550
+2 TOP 
+3 LEFT 3000,550
+3 RIGHT 3070,550
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I126@
+1 WIFE @I225@
+0 @F86@ FAM
+1 POSITION 3100,550
+2 TOP 
+3 LEFT 3070,550
+3 RIGHT 3190,550
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I126@
+1 WIFE @I226@
+1 CHIL @I227@
+0 @F87@ FAM
+1 POSITION 3430,550
+2 TOP 
+3 LEFT 3400,550
+3 RIGHT 3460,550
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I228@
+1 WIFE @I202@
+0 @F88@ FAM
+1 POSITION -2180,600
+2 TOP 
+3 LEFT -2210,600
+3 RIGHT -2150,600
+2 BOTTOM 
+3 LEFT -2810,570
+3 RIGHT -1540,570
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I229@
+1 CHIL @I5@
+1 CHIL @ind00377@
+1 CHIL @ind00378@
+1 CHIL @ind00379@
+1 CHIL @ind00380@
+1 CHIL @ind00381@
+0 @F89@ FAM
+1 POSITION -1730,-90
+2 TOP 
+3 LEFT -1760,-90
+3 RIGHT -1690,-90
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I77@
+1 WIFE @I235@
+0 @F90@ FAM
+1 POSITION -1380,-90
+2 TOP 
+3 LEFT -1410,-90
+3 RIGHT -1350,-90
+2 BOTTOM 
+3 LEFT -1410,-120
+3 RIGHT -1350,-120
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I79@
+1 WIFE @I236@
+1 CHIL @I237@
+1 CHIL @I238@
+0 @F91@ FAM
+1 POSITION -1520,-230
+2 TOP 
+3 LEFT -1550,-230
+3 RIGHT -1480,-230
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I239@
+1 WIFE @I81@
+0 @F92@ FAM
+1 POSITION -1230,-90
+2 TOP 
+3 LEFT -1260,-90
+3 RIGHT -1170,-90
+2 BOTTOM 
+3 LEFT -1270,-120
+3 RIGHT -1190,-120
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I83@
+1 WIFE @I240@
+1 CHIL @I241@
+1 CHIL @I242@
+0 @F93@ FAM
+1 POSITION -1050,-90
+2 TOP 
+3 LEFT -1080,-90
+3 RIGHT -990,-90
+2 BOTTOM 
+3 LEFT -1090,-120
+3 RIGHT -1000,-120
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I84@
+1 WIFE @I243@
+1 CHIL @I244@
+1 CHIL @I245@
+0 @F94@ FAM
+1 POSITION -970,-240
+2 TOP 
+3 LEFT -1000,-240
+3 RIGHT -920,-240
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I245@
+1 WIFE @I246@
+0 @F95@ FAM
+1 POSITION -810,-240
+2 TOP 
+3 LEFT -840,-240
+3 RIGHT -760,-240
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I247@
+1 WIFE @I90@
+1 CHIL @I248@
+0 @F96@ FAM
+1 POSITION -640,-240
+2 TOP 
+3 LEFT -670,-240
+3 RIGHT -590,-240
+2 BOTTOM 
+3 LEFT -680,-270
+3 RIGHT -600,-270
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I249@
+1 WIFE @I91@
+1 CHIL @I250@
+1 CHIL @ind00318@
+0 @F97@ FAM
+1 POSITION 0,-90
+2 TOP 
+3 LEFT -30,-90
+3 RIGHT 40,-90
+2 BOTTOM 
+3 LEFT -70,-120
+3 RIGHT 70,-120
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I89@
+1 WIFE @I88@
+1 CHIL @I252@
+1 CHIL @I253@
+0 @F98@ FAM
+1 POSITION -40,-230
+2 TOP 
+3 LEFT -70,-230
+3 RIGHT 0,-230
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I252@
+1 WIFE @I254@
+0 @F99@ FAM
+1 POSITION -200,-90
+2 TOP 
+3 LEFT -230,-90
+3 RIGHT -150,-90
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I87@
+1 WIFE @I255@
+1 CHIL @I256@
+0 @F100@ FAM
+1 POSITION -480,-240
+2 TOP 
+3 LEFT -510,-240
+3 RIGHT -450,-240
+2 BOTTOM 
+3 LEFT -510,-270
+3 RIGHT -450,-270
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I257@
+1 WIFE @I92@
+1 CHIL @I258@
+1 CHIL @I259@
+0 @F101@ FAM
+1 POSITION 160,-90
+2 TOP 
+3 LEFT 130,-90
+3 RIGHT 200,-90
+2 BOTTOM 
+3 LEFT 130,-120
+3 RIGHT 200,-120
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I95@
+1 WIFE @I260@
+1 CHIL @I261@
+1 CHIL @I262@
+0 @F102@ FAM
+1 POSITION 300,-90
+2 TOP 
+3 LEFT 270,-90
+3 RIGHT 340,-90
+2 BOTTOM 
+3 LEFT 270,-120
+3 RIGHT 340,-120
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I96@
+1 WIFE @I263@
+1 CHIL @I264@
+1 CHIL @I265@
+0 @F103@ FAM
+1 POSITION 480,-90
+2 TOP 
+3 LEFT 450,-90
+3 RIGHT 510,-90
+2 BOTTOM 
+3 LEFT 410,-120
+3 RIGHT 540,-120
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I97@
+1 WIFE @I266@
+1 CHIL @I267@
+1 CHIL @I268@
+0 @F104@ FAM
+1 POSITION 640,-230
+2 TOP 
+3 LEFT 610,-230
+3 RIGHT 680,-230
+2 BOTTOM 
+3 LEFT 610,-260
+3 RIGHT 680,-260
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I269@
+1 WIFE @I109@
+1 CHIL @I270@
+1 CHIL @ind00320@
+0 @F105@ FAM
+1 POSITION 780,-230
+2 TOP 
+3 LEFT 750,-230
+3 RIGHT 830,-230
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I271@
+1 WIFE @I272@
+1 CHIL @ind00310@
+0 @F106@ FAM
+1 POSITION 1470,-90
+2 TOP 
+3 LEFT 1440,-90
+3 RIGHT 1510,-90
+2 BOTTOM 
+3 LEFT 1400,-120
+3 RIGHT 1540,-120
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I273@
+1 WIFE @I103@
+1 CHIL @I284@
+1 CHIL @I285@
+0 @F107@ FAM
+1 POSITION 1080,-100
+2 TOP 
+3 LEFT 1050,-100
+3 RIGHT 1120,-100
+2 BOTTOM 
+3 LEFT 910,-130
+3 RIGHT 1260,-130
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I274@
+1 WIFE @I102@
+1 CHIL @I275@
+1 CHIL @I276@
+1 CHIL @I277@
+0 @F108@ FAM
+1 POSITION 940,-240
+2 TOP 
+3 LEFT 910,-240
+3 RIGHT 980,-240
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I275@
+1 WIFE @I278@
+1 CHIL @I281@
+0 @F109@ FAM
+1 POSITION 1090,-240
+2 TOP 
+3 LEFT 1060,-240
+3 RIGHT 1120,-240
+2 BOTTOM 
+3 LEFT 1050,-270
+3 RIGHT 1120,-270
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I276@
+1 WIFE @I279@
+1 CHIL @I282@
+1 CHIL @I283@
+0 @F110@ FAM
+1 POSITION 1220,-240
+2 TOP 
+3 LEFT 1190,-240
+3 RIGHT 1260,-240
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I280@
+1 WIFE @I277@
+0 @F111@ FAM
+1 POSITION 1360,-230
+2 TOP 
+3 LEFT 1330,-230
+3 RIGHT 1400,-230
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I286@
+1 WIFE @I284@
+0 @F112@ FAM
+1 POSITION 1500,-230
+2 TOP 
+3 LEFT 1470,-230
+3 RIGHT 1540,-230
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I287@
+1 WIFE @I285@
+0 @F113@ FAM
+1 POSITION -2570,-90
+2 TOP 
+3 LEFT -2600,-90
+3 RIGHT -2530,-90
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I288@
+1 WIFE @I71@
+1 CHIL @I289@
+0 @F114@ FAM
+1 POSITION -2410,-70
+2 TOP 
+3 LEFT -2440,-70
+3 RIGHT -2370,-70
+2 BOTTOM 
+3 LEFT -2440,-100
+3 RIGHT -2370,-100
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I72@
+1 WIFE @I290@
+1 CHIL @I291@
+1 CHIL @I292@
+0 @F115@ FAM
+1 POSITION -2260,-90
+2 TOP 
+3 LEFT -2290,-90
+3 RIGHT -2220,-90
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I293@
+1 WIFE @I73@
+1 CHIL @I294@
+0 @F116@ FAM
+1 POSITION -2120,-90
+2 TOP 
+3 LEFT -2150,-90
+3 RIGHT -2080,-90
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I295@
+1 WIFE @I74@
+1 CHIL @I296@
+0 @fam00117@ FAM
+1 POSITION -3410,-240
+2 TOP 
+3 LEFT -3500,-240
+3 RIGHT -3380,-240
+1 RELATION Divorce
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00298@
+1 WIFE @I41@
+1 CHIL @ind00299@
+0 @fam00118@ FAM
+1 POSITION -3530,-240
+2 TOP 
+3 LEFT -3580,-240
+3 RIGHT -3500,-240
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00300@
+1 WIFE @I41@
+0 @fam00119@ FAM
+1 POSITION -2930,-250
+2 TOP 
+3 LEFT -2960,-250
+3 RIGHT -2890,-250
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00302@
+1 WIFE @I30@
+0 @fam00120@ FAM
+1 POSITION -3280,-100
+2 TOP 
+3 LEFT -3310,-100
+3 RIGHT -3240,-100
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00305@
+1 WIFE @ind00303@
+1 CHIL @ind00307@
+0 @fam00121@ FAM
+1 POSITION -3150,-100
+2 TOP 
+3 LEFT -3180,-100
+3 RIGHT -3100,-100
+2 BOTTOM 
+3 LEFT -3180,-130
+3 RIGHT -3110,-130
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00306@
+1 WIFE @ind00304@
+1 CHIL @ind00308@
+1 CHIL @ind00309@
+0 @fam00122@ FAM
+1 POSITION -4270,-1910
+2 TOP 
+3 LEFT -4300,-1910
+3 RIGHT -4150,-1910
+1 RELATION Divorce
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I150@
+1 WIFE @ind00311@
+1 CHIL @ind00312@
+1 CHIL @ind00313@
+0 @fam00123@ FAM
+1 POSITION 2270,1370
+2 TOP 
+3 LEFT 2240,1370
+3 RIGHT 2310,1370
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I135@
+1 WIFE @ind00314@
+1 CHIL @I134@
+0 @fam00124@ FAM
+1 POSITION 2250,1480
+2 TOP 
+3 LEFT 2220,1480
+3 RIGHT 2290,1480
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I137@
+1 WIFE @ind00315@
+1 CHIL @I135@
+0 @fam00125@ FAM
+1 POSITION 2220,1590
+2 TOP 
+3 LEFT 2190,1590
+3 RIGHT 5730,1590
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I138@
+1 WIFE @ind00316@
+1 CHIL @I137@
+0 @fam00126@ FAM
+1 POSITION 2200,1720
+2 TOP 
+3 LEFT 2170,1720
+3 RIGHT 2240,1720
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I136@
+1 WIFE @ind00317@
+1 CHIL @I138@
+0 @fam00127@ FAM
+1 POSITION 440,-230
+2 TOP 
+3 LEFT 410,-230
+3 RIGHT 470,-230
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I267@
+1 WIFE @ind00319@
+0 @fam00128@ FAM
+1 POSITION -350,-240
+2 TOP 
+3 LEFT -380,-240
+3 RIGHT -310,-240
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I93@
+1 WIFE @ind00321@
+0 @fam00129@ FAM
+1 POSITION -4120,-1910
+2 TOP 
+3 LEFT -4150,-1910
+3 RIGHT -3970,-1910
+1 RELATION Cohabitation
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I150@
+1 WIFE @ind00322@
+1 CHIL @ind00324@
+1 CHIL @ind00323@
+0 @fam00130@ FAM
+1 POSITION -5110,-1390
+2 TOP 
+3 LEFT -5140,-1390
+3 RIGHT -5070,-1390
+2 BOTTOM 
+3 LEFT -5260,-1420
+3 RIGHT -4950,-1420
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00325@
+1 WIFE @ind00329@
+1 CHIL @ind00330@
+1 CHIL @ind00331@
+1 CHIL @ind00332@
+0 @fam00131@ FAM
+1 POSITION -4590,-1390
+2 TOP 
+3 LEFT -4620,-1390
+3 RIGHT -4560,-1390
+2 BOTTOM 
+3 LEFT -4720,-1420
+3 RIGHT -4460,-1420
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00333@
+1 WIFE @ind00326@
+1 CHIL @ind00334@
+1 CHIL @ind00335@
+0 @fam00132@ FAM
+1 POSITION -4770,-1530
+2 TOP 
+3 LEFT -4800,-1530
+3 RIGHT -4720,-1530
+2 BOTTOM 
+3 LEFT -4860,-1560
+3 RIGHT -4680,-1560
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00336@
+1 WIFE @ind00334@
+1 CHIL @ind00337@
+1 CHIL @ind00338@
+0 @fam00133@ FAM
+1 POSITION -4650,-1670
+2 TOP 
+3 LEFT -4680,-1670
+3 RIGHT -4600,-1670
+1 RELATION Divorce
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00338@
+1 WIFE @ind00339@
+0 @fam00134@ FAM
+1 POSITION -4830,-1670
+2 TOP 
+3 LEFT -4860,-1670
+3 RIGHT -4770,-1670
+2 BOTTOM 
+3 LEFT -4870,-1700
+3 RIGHT -4800,-1700
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00337@
+1 WIFE @ind00340@
+1 CHIL @ind00341@
+1 CHIL @ind00342@
+0 @fam00135@ FAM
+1 POSITION -4500,-1540
+2 TOP 
+3 LEFT -4530,-1540
+3 RIGHT -4460,-1540
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00343@
+1 WIFE @ind00335@
+1 CHIL @ind00344@
+0 @fam00136@ FAM
+1 POSITION -4250,-1390
+2 TOP 
+3 LEFT -4280,-1390
+3 RIGHT -4210,-1390
+2 BOTTOM 
+3 LEFT -4320,-1420
+3 RIGHT -4190,-1420
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00345@
+1 WIFE @ind00327@
+1 CHIL @ind00346@
+1 CHIL @ind00347@
+0 @fam00137@ FAM
+1 POSITION -4050,-1390
+2 TOP 
+3 LEFT -4080,-1390
+3 RIGHT -4010,-1390
+2 BOTTOM 
+3 LEFT -4120,-1420
+3 RIGHT -3970,-1420
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00328@
+1 WIFE @ind00348@
+1 CHIL @ind00349@
+1 CHIL @ind00350@
+0 @fam00138@ FAM
+1 POSITION -4090,-1540
+2 TOP 
+3 LEFT -4120,-1540
+3 RIGHT -4040,-1540
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00349@
+1 WIFE @ind00351@
+1 CHIL @ind00352@
+0 @fam00139@ FAM
+1 POSITION -5150,-1530
+2 TOP 
+3 LEFT -5180,-1530
+3 RIGHT -5110,-1530
+1 RELATION Divorce
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00353@
+1 WIFE @ind00331@
+1 CHIL @ind00354@
+0 @fam00140@ FAM
+1 POSITION -4990,-1530
+2 TOP 
+3 LEFT -5020,-1530
+3 RIGHT -4950,-1530
+2 BOTTOM 
+3 LEFT -5030,-1560
+3 RIGHT -4960,-1560
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00355@
+1 WIFE @ind00332@
+1 CHIL @ind00356@
+1 CHIL @ind00357@
+0 @fam00141@ FAM
+1 POSITION -4230,-1530
+2 TOP 
+3 LEFT -4260,-1530
+3 RIGHT -4190,-1530
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00358@
+1 WIFE @ind00347@
+1 CHIL @ind00359@
+0 @fam00142@ FAM
+1 POSITION 5760,1590
+2 TOP 
+3 LEFT 5730,1590
+3 RIGHT 5800,1590
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I138@
+1 WIFE @ind00360@
+0 @fam00143@ FAM
+1 POSITION -5440,-190
+2 TOP 
+3 LEFT -5470,-190
+3 RIGHT -5390,-190
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00363@
+1 WIFE @I231@
+0 @fam00144@ FAM
+1 POSITION -5580,-190
+2 TOP 
+3 LEFT -5610,-190
+3 RIGHT -5540,-190
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I230@
+1 WIFE @ind00364@
+0 @fam00145@ FAM
+1 POSITION -2550,-200
+2 TOP 
+3 LEFT -2580,-200
+3 RIGHT -2510,-200
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @I289@
+1 WIFE @ind00365@
+0 @fam00146@ FAM
+1 POSITION -3970,-660
+2 TOP 
+3 LEFT -4000,-660
+3 RIGHT -3930,-660
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00368@
+1 WIFE @ind00366@
+0 @fam00147@ FAM
+1 POSITION -3370,-1510
+2 TOP 
+3 LEFT -3400,-1510
+3 RIGHT -3340,-1510
+2 BOTTOM 
+3 LEFT -3470,-1540
+3 RIGHT -3270,-1540
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00369@
+1 WIFE @ind00370@
+1 CHIL @ind00371@
+1 CHIL @ind00374@
+0 @fam00148@ FAM
+1 POSITION -3440,-1660
+2 TOP 
+3 LEFT -3470,-1660
+3 RIGHT -3410,-1660
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00371@
+1 WIFE @ind00372@
+1 CHIL @ind00373@
+0 @fam00149@ FAM
+1 POSITION -3310,-1670
+2 TOP 
+3 LEFT -3340,-1670
+3 RIGHT -3270,-1670
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00375@
+1 WIFE @ind00374@
+1 CHIL @ind00376@
+0 @fam00150@ FAM
+1 POSITION -2510,450
+2 TOP 
+3 LEFT -2540,450
+3 RIGHT -2470,450
+2 BOTTOM 
+3 LEFT -2670,420
+3 RIGHT -2340,420
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00377@
+1 WIFE @ind00382@
+1 CHIL @ind00383@
+1 CHIL @ind00384@
+1 CHIL @ind00385@
+0 @fam00151@ FAM
+1 POSITION -2240,440
+2 TOP 
+3 LEFT -2270,440
+3 RIGHT -2190,440
+2 BOTTOM 
+3 LEFT -2270,410
+3 RIGHT -2200,410
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00386@
+1 WIFE @ind00378@
+1 CHIL @ind00387@
+1 CHIL @ind00388@
+0 @fam00152@ FAM
+1 POSITION -2030,440
+2 TOP 
+3 LEFT -2060,440
+3 RIGHT -1990,440
+2 BOTTOM 
+3 LEFT -2100,410
+3 RIGHT -1970,410
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00379@
+1 WIFE @ind00389@
+1 CHIL @ind00390@
+1 CHIL @ind00391@
+0 @fam00153@ FAM
+1 POSITION -1760,450
+2 TOP 
+3 LEFT -1790,450
+3 RIGHT -1720,450
+2 BOTTOM 
+3 LEFT -1830,420
+3 RIGHT -1680,420
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00380@
+1 WIFE @ind00392@
+1 CHIL @ind00393@
+1 CHIL @ind00394@
+0 @fam00154@ FAM
+1 POSITION -1510,440
+2 TOP 
+3 LEFT -1540,440
+3 RIGHT -1470,440
+2 BOTTOM 
+3 LEFT -1540,410
+3 RIGHT -1470,410
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00381@
+1 WIFE @ind00395@
+1 CHIL @ind00396@
+1 CHIL @ind00397@
+0 @fam00155@ FAM
+1 POSITION -2380,300
+2 TOP 
+3 LEFT -2410,300
+3 RIGHT -2340,300
+2 BOTTOM 
+3 LEFT -2410,270
+3 RIGHT -2340,270
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00398@
+1 WIFE @ind00385@
+1 CHIL @ind00399@
+1 CHIL @ind00400@
+0 @fam00156@ FAM
+1 POSITION -2520,310
+2 TOP 
+3 LEFT -2550,310
+3 RIGHT -2480,310
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00384@
+1 WIFE @ind00401@
+1 CHIL @ind00402@
+0 @fam00157@ FAM
+1 POSITION -2570,190
+2 TOP 
+3 LEFT -2600,190
+3 RIGHT -2530,190
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00403@
+1 WIFE @ind00402@
+0 @fam00158@ FAM
+1 POSITION -1940,300
+2 TOP 
+3 LEFT -1970,300
+3 RIGHT -1900,300
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00391@
+1 WIFE @ind00404@
+1 CHIL @ind00405@
+0 @fam00159@ FAM
+1 POSITION -1800,310
+2 TOP 
+3 LEFT -1830,310
+3 RIGHT -1760,310
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00393@
+1 WIFE @ind00406@
+0 @fam00160@ FAM
+1 POSITION -1650,310
+2 TOP 
+3 LEFT -1680,310
+3 RIGHT -1610,310
+2 BOTTOM 
+3 LEFT -1690,280
+3 RIGHT -1620,280
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00394@
+1 WIFE @ind00407@
+1 CHIL @ind00408@
+1 CHIL @ind00409@
+0 @fam00161@ FAM
+1 POSITION -2070,300
+2 TOP 
+3 LEFT -2100,300
+3 RIGHT -2030,300
+1 DISPLAY 
+2 COLOR 
+3 LABEL #000000
+1 HUSB @ind00390@
+1 WIFE @ind00410@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F1@
+1 INDIVIDUAL @I2@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F1@
+1 INDIVIDUAL @I3@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F3@
+1 INDIVIDUAL @I3@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F1@
+1 INDIVIDUAL @I4@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F4@
+1 INDIVIDUAL @I4@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F88@
+1 INDIVIDUAL @I5@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F2@
+1 INDIVIDUAL @I5@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F1@
+1 INDIVIDUAL @I5@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F1@
+1 INDIVIDUAL @I6@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F5@
+1 INDIVIDUAL @I6@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F7@
+1 INDIVIDUAL @I7@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F3@
+1 INDIVIDUAL @I7@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F4@
+1 INDIVIDUAL @I8@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F22@
+1 INDIVIDUAL @I9@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F5@
+1 INDIVIDUAL @I9@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F1@
+1 INDIVIDUAL @I10@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F6@
+1 INDIVIDUAL @I10@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F6@
+1 INDIVIDUAL @I11@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F14@
+1 INDIVIDUAL @I12@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F7@
+1 INDIVIDUAL @I12@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F3@
+1 INDIVIDUAL @I13@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F8@
+1 INDIVIDUAL @I13@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F3@
+1 INDIVIDUAL @I14@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F9@
+1 INDIVIDUAL @I14@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F8@
+1 INDIVIDUAL @I15@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F9@
+1 INDIVIDUAL @I16@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F9@
+1 INDIVIDUAL @I17@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F9@
+1 INDIVIDUAL @I18@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F9@
+1 INDIVIDUAL @I19@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F5@
+1 INDIVIDUAL @I20@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F10@
+1 INDIVIDUAL @I20@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F5@
+1 INDIVIDUAL @I21@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F11@
+1 INDIVIDUAL @I21@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F10@
+1 INDIVIDUAL @I22@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F10@
+1 INDIVIDUAL @I23@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F56@
+1 INDIVIDUAL @I24@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F11@
+1 INDIVIDUAL @I24@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F11@
+1 INDIVIDUAL @I25@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F11@
+1 INDIVIDUAL @I26@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F6@
+1 INDIVIDUAL @I27@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F12@
+1 INDIVIDUAL @I27@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F6@
+1 INDIVIDUAL @I28@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F13@
+1 INDIVIDUAL @I28@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F12@
+1 INDIVIDUAL @I29@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F12@
+1 INDIVIDUAL @I30@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F13@
+1 INDIVIDUAL @I31@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F13@
+1 INDIVIDUAL @I32@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F13@
+1 INDIVIDUAL @I33@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F10@
+1 INDIVIDUAL @I34@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F7@
+1 INDIVIDUAL @I35@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F14@
+1 INDIVIDUAL @I36@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F14@
+1 INDIVIDUAL @I38@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F15@
+1 INDIVIDUAL @I38@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F15@
+1 INDIVIDUAL @I39@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F15@
+1 INDIVIDUAL @I40@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F18@
+1 INDIVIDUAL @I40@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F15@
+1 INDIVIDUAL @I41@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F7@
+1 INDIVIDUAL @I42@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F17@
+1 INDIVIDUAL @I42@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F7@
+1 INDIVIDUAL @I43@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F16@
+1 INDIVIDUAL @I43@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F16@
+1 INDIVIDUAL @I45@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F17@
+1 INDIVIDUAL @I46@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F16@
+1 INDIVIDUAL @I47@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F19@
+1 INDIVIDUAL @I47@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F16@
+1 INDIVIDUAL @I48@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F16@
+1 INDIVIDUAL @I49@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F20@
+1 INDIVIDUAL @I49@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F18@
+1 INDIVIDUAL @I50@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F19@
+1 INDIVIDUAL @I51@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F20@
+1 INDIVIDUAL @I52@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F20@
+1 INDIVIDUAL @I53@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F20@
+1 INDIVIDUAL @I54@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F40@
+1 INDIVIDUAL @I56@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F22@
+1 INDIVIDUAL @I56@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F23@
+1 INDIVIDUAL @I56@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F23@
+1 INDIVIDUAL @I58@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F23@
+1 INDIVIDUAL @I59@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F28@
+1 INDIVIDUAL @I59@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F23@
+1 INDIVIDUAL @I60@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F31@
+1 INDIVIDUAL @I60@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F23@
+1 INDIVIDUAL @I61@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F34@
+1 INDIVIDUAL @I61@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F23@
+1 INDIVIDUAL @I62@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F35@
+1 INDIVIDUAL @I62@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F22@
+1 INDIVIDUAL @I63@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F25@
+1 INDIVIDUAL @I63@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F22@
+1 INDIVIDUAL @I64@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F26@
+1 INDIVIDUAL @I64@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F22@
+1 INDIVIDUAL @I65@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F27@
+1 INDIVIDUAL @I65@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F22@
+1 INDIVIDUAL @I66@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F24@
+1 INDIVIDUAL @I66@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F24@
+1 INDIVIDUAL @I67@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F24@
+1 INDIVIDUAL @I68@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F29@
+1 INDIVIDUAL @I68@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F24@
+1 INDIVIDUAL @I69@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F25@
+1 INDIVIDUAL @I70@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F39@
+1 INDIVIDUAL @I70@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F26@
+1 INDIVIDUAL @I71@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F113@
+1 INDIVIDUAL @I71@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F26@
+1 INDIVIDUAL @I72@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F114@
+1 INDIVIDUAL @I72@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F27@
+1 INDIVIDUAL @I73@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F115@
+1 INDIVIDUAL @I73@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F27@
+1 INDIVIDUAL @I74@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F116@
+1 INDIVIDUAL @I74@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F28@
+1 INDIVIDUAL @I75@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F29@
+1 INDIVIDUAL @I76@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F28@
+1 INDIVIDUAL @I77@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F89@
+1 INDIVIDUAL @I77@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F28@
+1 INDIVIDUAL @I78@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F30@
+1 INDIVIDUAL @I78@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F28@
+1 INDIVIDUAL @I79@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F90@
+1 INDIVIDUAL @I79@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F30@
+1 INDIVIDUAL @I80@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F30@
+1 INDIVIDUAL @I81@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F91@
+1 INDIVIDUAL @I81@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F31@
+1 INDIVIDUAL @I82@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F31@
+1 INDIVIDUAL @I83@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F92@
+1 INDIVIDUAL @I83@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F31@
+1 INDIVIDUAL @I84@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F93@
+1 INDIVIDUAL @I84@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F31@
+1 INDIVIDUAL @I85@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F32@
+1 INDIVIDUAL @I85@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F31@
+1 INDIVIDUAL @I86@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F33@
+1 INDIVIDUAL @I86@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F31@
+1 INDIVIDUAL @I87@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F99@
+1 INDIVIDUAL @I87@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F31@
+1 INDIVIDUAL @I88@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F97@
+1 INDIVIDUAL @I88@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F97@
+1 INDIVIDUAL @I89@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F32@
+1 INDIVIDUAL @I90@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F95@
+1 INDIVIDUAL @I90@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F32@
+1 INDIVIDUAL @I91@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F96@
+1 INDIVIDUAL @I91@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F33@
+1 INDIVIDUAL @I92@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F100@
+1 INDIVIDUAL @I92@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F33@
+1 INDIVIDUAL @I93@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F34@
+1 INDIVIDUAL @I94@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F34@
+1 INDIVIDUAL @I95@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F101@
+1 INDIVIDUAL @I95@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F34@
+1 INDIVIDUAL @I96@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F102@
+1 INDIVIDUAL @I96@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F34@
+1 INDIVIDUAL @I97@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F103@
+1 INDIVIDUAL @I97@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F30@
+1 INDIVIDUAL @I98@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F33@
+1 INDIVIDUAL @I99@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F35@
+1 INDIVIDUAL @I100@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F35@
+1 INDIVIDUAL @I101@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F36@
+1 INDIVIDUAL @I101@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F35@
+1 INDIVIDUAL @I102@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F107@
+1 INDIVIDUAL @I102@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F35@
+1 INDIVIDUAL @I103@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F106@
+1 INDIVIDUAL @I103@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F35@
+1 INDIVIDUAL @I104@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F37@
+1 INDIVIDUAL @I104@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F35@
+1 INDIVIDUAL @I105@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F38@
+1 INDIVIDUAL @I105@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F36@
+1 INDIVIDUAL @I106@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F37@
+1 INDIVIDUAL @I107@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F38@
+1 INDIVIDUAL @I108@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F36@
+1 INDIVIDUAL @I109@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F104@
+1 INDIVIDUAL @I109@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F37@
+1 INDIVIDUAL @I110@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F37@
+1 INDIVIDUAL @I111@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F38@
+1 INDIVIDUAL @I112@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F38@
+1 INDIVIDUAL @I113@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F39@
+1 INDIVIDUAL @I114@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F41@
+1 INDIVIDUAL @I115@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F40@
+1 INDIVIDUAL @I115@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F40@
+1 INDIVIDUAL @I116@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F44@
+1 INDIVIDUAL @I117@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F41@
+1 INDIVIDUAL @I117@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F41@
+1 INDIVIDUAL @I118@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F42@
+1 INDIVIDUAL @I118@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F42@
+1 INDIVIDUAL @I119@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F42@
+1 INDIVIDUAL @I120@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F43@
+1 INDIVIDUAL @I120@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F43@
+1 INDIVIDUAL @I121@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F42@
+1 INDIVIDUAL @I122@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F81@
+1 INDIVIDUAL @I122@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F42@
+1 INDIVIDUAL @I123@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F82@
+1 INDIVIDUAL @I123@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F42@
+1 INDIVIDUAL @I124@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F42@
+1 INDIVIDUAL @I125@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F42@
+1 INDIVIDUAL @I126@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F85@
+1 INDIVIDUAL @I126@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F86@
+1 INDIVIDUAL @I126@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F42@
+1 INDIVIDUAL @I127@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F83@
+1 INDIVIDUAL @I127@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F46@
+1 INDIVIDUAL @I128@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F44@
+1 INDIVIDUAL @I128@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F64@
+1 INDIVIDUAL @I128@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F44@
+1 INDIVIDUAL @I129@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F64@
+1 INDIVIDUAL @I130@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F47@
+1 INDIVIDUAL @I131@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F46@
+1 INDIVIDUAL @I131@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F46@
+1 INDIVIDUAL @I132@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F52@
+1 INDIVIDUAL @I132@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F47@
+1 INDIVIDUAL @I134@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F52@
+1 INDIVIDUAL @I139@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F53@
+1 INDIVIDUAL @I139@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F52@
+1 INDIVIDUAL @I140@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F54@
+1 INDIVIDUAL @I140@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F53@
+1 INDIVIDUAL @I141@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F53@
+1 INDIVIDUAL @I143@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F55@
+1 INDIVIDUAL @I143@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F54@
+1 INDIVIDUAL @I144@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F55@
+1 INDIVIDUAL @I145@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F55@
+1 INDIVIDUAL @I146@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F55@
+1 INDIVIDUAL @I147@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F57@
+1 INDIVIDUAL @I148@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F56@
+1 INDIVIDUAL @I148@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F58@
+1 INDIVIDUAL @I149@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F56@
+1 INDIVIDUAL @I149@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F56@
+1 INDIVIDUAL @I150@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F57@
+1 INDIVIDUAL @I151@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F57@
+1 INDIVIDUAL @I152@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F58@
+1 INDIVIDUAL @I153@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F58@
+1 INDIVIDUAL @I154@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F58@
+1 INDIVIDUAL @I155@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F59@
+1 INDIVIDUAL @I155@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F58@
+1 INDIVIDUAL @I156@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F60@
+1 INDIVIDUAL @I156@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F59@
+1 INDIVIDUAL @I157@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F60@
+1 INDIVIDUAL @I158@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F59@
+1 INDIVIDUAL @I159@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F61@
+1 INDIVIDUAL @I159@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F59@
+1 INDIVIDUAL @I160@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F60@
+1 INDIVIDUAL @I161@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F60@
+1 INDIVIDUAL @I162@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F61@
+1 INDIVIDUAL @I163@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F61@
+1 INDIVIDUAL @I164@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F61@
+1 INDIVIDUAL @I165@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F52@
+1 INDIVIDUAL @I166@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F41@
+1 INDIVIDUAL @I167@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F63@
+1 INDIVIDUAL @I167@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F41@
+1 INDIVIDUAL @I168@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F62@
+1 INDIVIDUAL @I168@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F62@
+1 INDIVIDUAL @I169@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F63@
+1 INDIVIDUAL @I170@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F63@
+1 INDIVIDUAL @I171@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F63@
+1 INDIVIDUAL @I172@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F63@
+1 INDIVIDUAL @I173@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F41@
+1 INDIVIDUAL @I174@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F44@
+1 INDIVIDUAL @I175@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F65@
+1 INDIVIDUAL @I175@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F44@
+1 INDIVIDUAL @I176@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F68@
+1 INDIVIDUAL @I176@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F44@
+1 INDIVIDUAL @I177@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F71@
+1 INDIVIDUAL @I177@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F72@
+1 INDIVIDUAL @I177@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F44@
+1 INDIVIDUAL @I178@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F74@
+1 INDIVIDUAL @I178@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F65@
+1 INDIVIDUAL @I179@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F65@
+1 INDIVIDUAL @I180@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F66@
+1 INDIVIDUAL @I180@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F65@
+1 INDIVIDUAL @I181@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F67@
+1 INDIVIDUAL @I181@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F66@
+1 INDIVIDUAL @I182@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F66@
+1 INDIVIDUAL @I183@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F67@
+1 INDIVIDUAL @I184@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F67@
+1 INDIVIDUAL @I185@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F68@
+1 INDIVIDUAL @I186@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F68@
+1 INDIVIDUAL @I187@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F69@
+1 INDIVIDUAL @I187@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F68@
+1 INDIVIDUAL @I188@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F70@
+1 INDIVIDUAL @I188@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F69@
+1 INDIVIDUAL @I189@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F69@
+1 INDIVIDUAL @I190@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F70@
+1 INDIVIDUAL @I191@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F71@
+1 INDIVIDUAL @I192@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F72@
+1 INDIVIDUAL @I193@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F72@
+1 INDIVIDUAL @I194@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F72@
+1 INDIVIDUAL @I195@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F73@
+1 INDIVIDUAL @I195@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F73@
+1 INDIVIDUAL @I196@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F74@
+1 INDIVIDUAL @I197@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F74@
+1 INDIVIDUAL @I198@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F75@
+1 INDIVIDUAL @I198@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F75@
+1 INDIVIDUAL @I199@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F75@
+1 INDIVIDUAL @I200@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F76@
+1 INDIVIDUAL @I200@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F76@
+1 INDIVIDUAL @I201@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F42@
+1 INDIVIDUAL @I202@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F87@
+1 INDIVIDUAL @I202@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F42@
+1 INDIVIDUAL @I203@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F84@
+1 INDIVIDUAL @I203@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F43@
+1 INDIVIDUAL @I204@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F77@
+1 INDIVIDUAL @I204@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F43@
+1 INDIVIDUAL @I205@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F78@
+1 INDIVIDUAL @I205@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F43@
+1 INDIVIDUAL @I206@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F79@
+1 INDIVIDUAL @I206@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F43@
+1 INDIVIDUAL @I207@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F80@
+1 INDIVIDUAL @I207@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F77@
+1 INDIVIDUAL @I208@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F78@
+1 INDIVIDUAL @I209@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F79@
+1 INDIVIDUAL @I210@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F80@
+1 INDIVIDUAL @I211@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F81@
+1 INDIVIDUAL @I212@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F81@
+1 INDIVIDUAL @I213@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F82@
+1 INDIVIDUAL @I214@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F82@
+1 INDIVIDUAL @I215@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F82@
+1 INDIVIDUAL @I216@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F82@
+1 INDIVIDUAL @I217@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F83@
+1 INDIVIDUAL @I218@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F83@
+1 INDIVIDUAL @I219@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F83@
+1 INDIVIDUAL @I220@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F84@
+1 INDIVIDUAL @I221@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F84@
+1 INDIVIDUAL @I222@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F84@
+1 INDIVIDUAL @I224@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F85@
+1 INDIVIDUAL @I225@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F86@
+1 INDIVIDUAL @I226@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F86@
+1 INDIVIDUAL @I227@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F87@
+1 INDIVIDUAL @I228@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F88@
+1 INDIVIDUAL @I229@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F39@
+1 INDIVIDUAL @I230@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F39@
+1 INDIVIDUAL @I231@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F25@
+1 INDIVIDUAL @I232@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F26@
+1 INDIVIDUAL @I234@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F89@
+1 INDIVIDUAL @I235@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F90@
+1 INDIVIDUAL @I236@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F90@
+1 INDIVIDUAL @I237@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F90@
+1 INDIVIDUAL @I238@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F91@
+1 INDIVIDUAL @I239@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F92@
+1 INDIVIDUAL @I240@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F92@
+1 INDIVIDUAL @I241@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F92@
+1 INDIVIDUAL @I242@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F93@
+1 INDIVIDUAL @I243@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F93@
+1 INDIVIDUAL @I244@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F93@
+1 INDIVIDUAL @I245@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F94@
+1 INDIVIDUAL @I245@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F94@
+1 INDIVIDUAL @I246@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F95@
+1 INDIVIDUAL @I247@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F95@
+1 INDIVIDUAL @I248@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F96@
+1 INDIVIDUAL @I249@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F96@
+1 INDIVIDUAL @I250@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F32@
+1 INDIVIDUAL @I251@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F97@
+1 INDIVIDUAL @I252@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F98@
+1 INDIVIDUAL @I252@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F97@
+1 INDIVIDUAL @I253@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F98@
+1 INDIVIDUAL @I254@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F99@
+1 INDIVIDUAL @I255@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F99@
+1 INDIVIDUAL @I256@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F100@
+1 INDIVIDUAL @I257@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F100@
+1 INDIVIDUAL @I258@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F100@
+1 INDIVIDUAL @I259@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F101@
+1 INDIVIDUAL @I260@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F101@
+1 INDIVIDUAL @I261@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F101@
+1 INDIVIDUAL @I262@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F102@
+1 INDIVIDUAL @I263@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F102@
+1 INDIVIDUAL @I264@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F102@
+1 INDIVIDUAL @I265@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F103@
+1 INDIVIDUAL @I266@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F103@
+1 INDIVIDUAL @I267@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F103@
+1 INDIVIDUAL @I268@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F104@
+1 INDIVIDUAL @I269@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F104@
+1 INDIVIDUAL @I270@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F36@
+1 INDIVIDUAL @I271@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F105@
+1 INDIVIDUAL @I271@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F105@
+1 INDIVIDUAL @I272@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F106@
+1 INDIVIDUAL @I273@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F107@
+1 INDIVIDUAL @I274@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F107@
+1 INDIVIDUAL @I275@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F108@
+1 INDIVIDUAL @I275@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F107@
+1 INDIVIDUAL @I276@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F109@
+1 INDIVIDUAL @I276@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F107@
+1 INDIVIDUAL @I277@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F110@
+1 INDIVIDUAL @I277@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F108@
+1 INDIVIDUAL @I278@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F109@
+1 INDIVIDUAL @I279@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F110@
+1 INDIVIDUAL @I280@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F108@
+1 INDIVIDUAL @I281@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F109@
+1 INDIVIDUAL @I282@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F109@
+1 INDIVIDUAL @I283@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F106@
+1 INDIVIDUAL @I284@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F111@
+1 INDIVIDUAL @I284@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F106@
+1 INDIVIDUAL @I285@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F112@
+1 INDIVIDUAL @I285@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F111@
+1 INDIVIDUAL @I286@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F112@
+1 INDIVIDUAL @I287@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F113@
+1 INDIVIDUAL @I288@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F113@
+1 INDIVIDUAL @I289@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F114@
+1 INDIVIDUAL @I290@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F114@
+1 INDIVIDUAL @I291@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F114@
+1 INDIVIDUAL @I292@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F115@
+1 INDIVIDUAL @I293@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F115@
+1 INDIVIDUAL @I294@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F116@
+1 INDIVIDUAL @I295@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F116@
+1 INDIVIDUAL @I296@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F27@
+1 INDIVIDUAL @I297@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F2@
+1 INDIVIDUAL @I2@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00117@
+1 INDIVIDUAL @ind00298@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00117@
+1 INDIVIDUAL @I41@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00117@
+1 INDIVIDUAL @ind00299@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00118@
+1 INDIVIDUAL @I41@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00118@
+1 INDIVIDUAL @ind00300@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F12@
+1 INDIVIDUAL @ind00301@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00119@
+1 INDIVIDUAL @I30@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00119@
+1 INDIVIDUAL @ind00302@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F4@
+1 INDIVIDUAL @ind00303@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F4@
+1 INDIVIDUAL @ind00304@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00120@
+1 INDIVIDUAL @ind00303@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00120@
+1 INDIVIDUAL @ind00305@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00121@
+1 INDIVIDUAL @ind00304@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00121@
+1 INDIVIDUAL @ind00306@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00120@
+1 INDIVIDUAL @ind00307@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00121@
+1 INDIVIDUAL @ind00308@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00121@
+1 INDIVIDUAL @ind00309@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F105@
+1 INDIVIDUAL @ind00310@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00122@
+1 INDIVIDUAL @I150@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00122@
+1 INDIVIDUAL @ind00311@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00122@
+1 INDIVIDUAL @ind00312@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00122@
+1 INDIVIDUAL @ind00313@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00123@
+1 INDIVIDUAL @I134@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00123@
+1 INDIVIDUAL @I135@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00123@
+1 INDIVIDUAL @ind00314@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00124@
+1 INDIVIDUAL @I135@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00124@
+1 INDIVIDUAL @I137@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00124@
+1 INDIVIDUAL @ind00315@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00125@
+1 INDIVIDUAL @I137@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00125@
+1 INDIVIDUAL @I138@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00125@
+1 INDIVIDUAL @ind00316@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00126@
+1 INDIVIDUAL @I138@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00126@
+1 INDIVIDUAL @I136@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00126@
+1 INDIVIDUAL @ind00317@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @F22@
+1 INDIVIDUAL @I57@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F96@
+1 INDIVIDUAL @ind00318@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00127@
+1 INDIVIDUAL @I267@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00127@
+1 INDIVIDUAL @ind00319@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F104@
+1 INDIVIDUAL @ind00320@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00128@
+1 INDIVIDUAL @I93@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00128@
+1 INDIVIDUAL @ind00321@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00129@
+1 INDIVIDUAL @I150@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00129@
+1 INDIVIDUAL @ind00322@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 TWIN @twin00001@
+1 FAMILY @fam00129@
+1 INDIVIDUAL @ind00323@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 TWIN @twin00001@
+1 FAMILY @fam00129@
+1 INDIVIDUAL @ind00324@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F57@
+1 INDIVIDUAL @ind00325@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F57@
+1 INDIVIDUAL @ind00326@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F57@
+1 INDIVIDUAL @ind00327@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F57@
+1 INDIVIDUAL @ind00328@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00130@
+1 INDIVIDUAL @ind00325@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00130@
+1 INDIVIDUAL @ind00329@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00130@
+1 INDIVIDUAL @ind00330@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00130@
+1 INDIVIDUAL @ind00331@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00130@
+1 INDIVIDUAL @ind00332@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00131@
+1 INDIVIDUAL @ind00326@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00131@
+1 INDIVIDUAL @ind00333@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00131@
+1 INDIVIDUAL @ind00334@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00131@
+1 INDIVIDUAL @ind00335@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00132@
+1 INDIVIDUAL @ind00334@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00132@
+1 INDIVIDUAL @ind00336@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00132@
+1 INDIVIDUAL @ind00337@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00132@
+1 INDIVIDUAL @ind00338@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00133@
+1 INDIVIDUAL @ind00338@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00133@
+1 INDIVIDUAL @ind00339@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00134@
+1 INDIVIDUAL @ind00337@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00134@
+1 INDIVIDUAL @ind00340@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00134@
+1 INDIVIDUAL @ind00341@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00134@
+1 INDIVIDUAL @ind00342@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00135@
+1 INDIVIDUAL @ind00335@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00135@
+1 INDIVIDUAL @ind00343@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00135@
+1 INDIVIDUAL @ind00344@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00136@
+1 INDIVIDUAL @ind00327@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00136@
+1 INDIVIDUAL @ind00345@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00136@
+1 INDIVIDUAL @ind00346@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00136@
+1 INDIVIDUAL @ind00347@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00137@
+1 INDIVIDUAL @ind00328@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00137@
+1 INDIVIDUAL @ind00348@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00137@
+1 INDIVIDUAL @ind00349@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00137@
+1 INDIVIDUAL @ind00350@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00138@
+1 INDIVIDUAL @ind00349@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00138@
+1 INDIVIDUAL @ind00351@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00138@
+1 INDIVIDUAL @ind00352@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00139@
+1 INDIVIDUAL @ind00331@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00139@
+1 INDIVIDUAL @ind00353@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00139@
+1 INDIVIDUAL @ind00354@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00140@
+1 INDIVIDUAL @ind00332@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00140@
+1 INDIVIDUAL @ind00355@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00140@
+1 INDIVIDUAL @ind00356@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00140@
+1 INDIVIDUAL @ind00357@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00141@
+1 INDIVIDUAL @ind00347@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00141@
+1 INDIVIDUAL @ind00358@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00141@
+1 INDIVIDUAL @ind00359@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00142@
+1 INDIVIDUAL @I138@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00142@
+1 INDIVIDUAL @ind00360@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F18@
+1 INDIVIDUAL @ind00361@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F18@
+1 INDIVIDUAL @ind00362@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00143@
+1 INDIVIDUAL @I231@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00143@
+1 INDIVIDUAL @ind00363@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00144@
+1 INDIVIDUAL @I230@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00144@
+1 INDIVIDUAL @ind00364@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00145@
+1 INDIVIDUAL @I289@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00145@
+1 INDIVIDUAL @ind00365@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F17@
+1 INDIVIDUAL @ind00366@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F17@
+1 INDIVIDUAL @ind00367@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00146@
+1 INDIVIDUAL @ind00366@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00146@
+1 INDIVIDUAL @ind00368@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F58@
+1 INDIVIDUAL @ind00369@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00147@
+1 INDIVIDUAL @ind00369@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00147@
+1 INDIVIDUAL @ind00370@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00147@
+1 INDIVIDUAL @ind00371@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00148@
+1 INDIVIDUAL @ind00371@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00148@
+1 INDIVIDUAL @ind00372@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00148@
+1 INDIVIDUAL @ind00373@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00147@
+1 INDIVIDUAL @ind00374@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00149@
+1 INDIVIDUAL @ind00374@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00149@
+1 INDIVIDUAL @ind00375@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00149@
+1 INDIVIDUAL @ind00376@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F88@
+1 INDIVIDUAL @ind00377@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F88@
+1 INDIVIDUAL @ind00378@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F88@
+1 INDIVIDUAL @ind00379@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F88@
+1 INDIVIDUAL @ind00380@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @F88@
+1 INDIVIDUAL @ind00381@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00150@
+1 INDIVIDUAL @ind00377@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00150@
+1 INDIVIDUAL @ind00382@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00150@
+1 INDIVIDUAL @ind00383@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00150@
+1 INDIVIDUAL @ind00384@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00150@
+1 INDIVIDUAL @ind00385@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00151@
+1 INDIVIDUAL @ind00378@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00151@
+1 INDIVIDUAL @ind00386@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00151@
+1 INDIVIDUAL @ind00387@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00151@
+1 INDIVIDUAL @ind00388@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00152@
+1 INDIVIDUAL @ind00379@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00152@
+1 INDIVIDUAL @ind00389@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00152@
+1 INDIVIDUAL @ind00390@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00152@
+1 INDIVIDUAL @ind00391@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00153@
+1 INDIVIDUAL @ind00380@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00153@
+1 INDIVIDUAL @ind00392@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00153@
+1 INDIVIDUAL @ind00393@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00153@
+1 INDIVIDUAL @ind00394@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00154@
+1 INDIVIDUAL @ind00381@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00154@
+1 INDIVIDUAL @ind00395@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00154@
+1 INDIVIDUAL @ind00396@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00154@
+1 INDIVIDUAL @ind00397@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00155@
+1 INDIVIDUAL @ind00385@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00155@
+1 INDIVIDUAL @ind00398@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00155@
+1 INDIVIDUAL @ind00399@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00155@
+1 INDIVIDUAL @ind00400@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00156@
+1 INDIVIDUAL @ind00384@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00156@
+1 INDIVIDUAL @ind00401@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00156@
+1 INDIVIDUAL @ind00402@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00157@
+1 INDIVIDUAL @ind00402@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00157@
+1 INDIVIDUAL @ind00403@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00158@
+1 INDIVIDUAL @ind00391@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00158@
+1 INDIVIDUAL @ind00404@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00158@
+1 INDIVIDUAL @ind00405@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00159@
+1 INDIVIDUAL @ind00393@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00159@
+1 INDIVIDUAL @ind00406@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00160@
+1 INDIVIDUAL @ind00394@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00160@
+1 INDIVIDUAL @ind00407@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00160@
+1 INDIVIDUAL @ind00408@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK biological
+1 FAMILY @fam00160@
+1 INDIVIDUAL @ind00409@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00161@
+1 INDIVIDUAL @ind00390@
+0 PEDIGREELINK 
+1 PEDIGREE_LINK parent
+1 FAMILY @fam00161@
+1 INDIVIDUAL @ind00410@
+0 @place00006@ PLAC
+1 NAME Delhi
+0 @place00005@ PLAC
+1 NAME Kashmir
+0 @place00004@ PLAC
+1 NAME Victoria BC
+0 @place00003@ PLAC
+1 NAME Victoria, BC
+0 @place00002@ PLAC
+1 NAME Bombay
+0 @place00001@ PLAC
+1 NAME Srinagar
+0 @twin00001@ Twin
+1 FAMILY @fam00129@
+1 POSITION -4045
+0 TRLR
