@@ -1,0 +1,12 @@
+body { color: #003000; background-color: #FFFFCC; font-size: 10pt; font-family: Arial, Helvetica; background-image: url(images/parchment.jpg); }
+table{ font-size: 10pt; empty-cells:show;}
+h1 { color: #660066;  font-size: 14pt; }
+h2 { color: #660066; font-size: 12pt; } 
+h3 { color: #660066; font-size: 11pt;  }
+
+ul { font-size: 9pt; margin-top:2;margin-bottom:2;font-style:italic;}
+a:link { color: #660066; }
+a:visited { color: #993366; }
+a:active { color: FF3366; }
+a:hover { color: #FF3366; }
+h1.heading { font-size: 20pt; }
